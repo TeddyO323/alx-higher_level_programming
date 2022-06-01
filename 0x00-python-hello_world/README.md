@@ -212,7 +212,7 @@ D.) h
 **6.) What does this command line print?**
 
 <pre><code> >>> a = "Python is cool"
->>> print(a[0:6])</pre><code>
+>>> print(a[0:6])</pre></code>
 
 A.) Python
 
