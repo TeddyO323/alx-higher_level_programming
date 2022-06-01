@@ -99,9 +99,16 @@ else:
 else:
     print("School")</code></pre>
 
-Holberton
+A.) Holberton
 
 
-School
+B.) School
+
+ <details>
+ <summary>Show Answer</summary>
+
+**A.) Hoberton**
+
+</details>
     
 
