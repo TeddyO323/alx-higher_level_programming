@@ -81,6 +81,269 @@ Namespaces are one honking great idea -- let&#39;s do more of those!
 </div>
 
 ---
+
+# QUIZ
+
+**1.) Who created Python?**
+
+
+A.) Julien Barbier
+
+
+B.) Yukihiro Matsumoto
+
+
+C) Guido van Rossum
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**C) Guido van Rossum**
+
+</details>
+
+---
+
+
+**2.) What does this command line print?**
+
+<pre><code> >>> print("Holberton school")</pre></code>
+
+A.) Holberton
+
+
+B.) “Holberton school”
+
+
+C.) Holberton school
+
+
+D.) ‘Holberton school’
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**C.) Holberton school**
+
+</details>
+
+---
+
+
+**3.) What does this command line print?**
+
+<pre><code> >>> print(f"{98} Battery street")</pre></code>
+
+A.) 98 Battery street
+
+
+B.) f"98 Battery street"
+
+
+C.) 9 Battery street
+
+
+D.) 8 Battery street
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**A.) 98 Battery street**
+
+</details>
+
+---
+
+
+
+
+**4.) What does this command line print?**
+
+<pre><code> >>> print(f"{98} Battery street, {'San Francisco'}")</pre><code>
+
+A.) “98 Battery street, San Francisco”
+
+
+B.) 8 Battery street, San
+
+
+C.) 98 Battery street, San Francisco
+
+
+D.) San Francisco Battery street, 98
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**C.) 98 Battery street, San Francisco**
+
+</details>
+
+---
+
+
+
+**5.) What does this command line print?**
+
+<pre><code> >>> a = "Python is cool"
+>>> print(a[4])</pre></code>
+
+A.) P
+
+
+B.) n
+
+
+C.) o
+
+
+D.) h
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**C.) o**
+
+</details>
+
+---
+
+
+**6.) What does this command line print?**
+
+<pre><code> >>> a = "Python is cool"
+>>> print(a[0:6])</pre><code>
+
+A.) Python
+
+
+B.) Pytho
+
+
+C.) Python is
+
+
+D.) Python is cool
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**A.) Python**
+
+</details>
+
+---
+
+
+
+**7.) What does this command line print?**
+
+<pre><code>>>> a = "Python is cool"
+>>> print(a[:6])</pre></code>
+
+A.) Pytho
+
+
+B.) Python
+
+
+C.) Python is
+
+
+D.) is cool
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**B.) Python**
+
+</details>
+
+---
+
+
+
+**8.) What does this command line print?**
+
+<pre><code> >>> a = "Python is cool"
+>>> print(a[7:])</pre></code>
+
+A.) Python i
+
+
+B.) Python is
+
+
+C.) cool
+
+
+D.) is cool
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**D.) is cool**
+
+</details>
+
+---
+
+
+**9.) What does this command line print?**
+
+<pre><code> >>> a = "Python is cool"
+>>> print(a[7:-5])</pre></code>
+
+A.) on
+
+
+B.) nohtyP
+
+
+C.) Python
+
+
+D.) si
+
+
+E.) is
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**E.) is**
+
+</details>
+
+---
+
+**10.) What does this command line print?**
+
+<pre><code> >>> a = "Python is cool"
+>>> print(a[-2])</pre></code>
+
+A.) ol
+
+
+B.) l
+
+
+C.) o
+
+
+D.) Nothing
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**C.) o**
+
+</details>
+
+---
+
+
+
 # TASKS
 
 # 0. Run Python file
