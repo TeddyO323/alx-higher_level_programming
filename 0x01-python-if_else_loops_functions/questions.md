@@ -50,13 +50,8 @@ else:
   <label for="quiz-answer-1501132898681">
   <p>Holberton</p>
 
-</label></li>
+<details>
+ <summary>Show answer</summary>
 
-               
-<input type="checkbox" name="quiz-answer-1501132901615" id="quiz-answer-1501132901615" data-quiz-question-id="217" data-quiz-answer-id="1501132901615" disabled="disabled" />
-<label for="quiz-answer-1501132901615">
-   <p>School</p>
+<p>Holberton</p>
 
-</label></li>
-
-        </ul>
