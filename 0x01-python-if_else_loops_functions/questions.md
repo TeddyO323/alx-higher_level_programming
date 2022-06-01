@@ -105,10 +105,147 @@ A.) Holberton
 B.) School
 
  <details>
- <summary>Show Answer</summary>
+ <summary>Show Answer</summary><br>
 
 **A.) Hoberton**
 
 </details>
+
+---
+
+**4.) What do these lines print?**
+
+<pre><code>a = 12
+if a > 2:
+    if a % 2 == 0:
+        print("Holberton")
+    else:
+        print("C is fun")
+else:
+    print("School")</pre></code>
+
+A.) Holberton
+
+
+B.) C is fun
+
+
+C.) School
+
+<details>
+ <summary>Show Answer</summary><br>
+
+**A.) Hoberton**
+
+</details>
+
+---
+
+
+**5.) What do these lines print?**
+
+<pre><code>a = 12
+if a < 2:
+    print("Holberton")
+elif a % 2 == 0:
+    print("C is fun")
+else:
+    print("School")</pre></code>
+
+A.) Holberton
+
+
+B.) C is fun
+
+
+C.) School
+
+<details>
+ <summary>Show Answer</summary><br>
+
+**B.) C is fun**
+
+</details>
+
+---
+
+6.) What do these lines print?
+
+<pre><code>for i in range(4):
+    print(i, end=" ")</pre></code>
+
+A.) 1 2 3 4
+
+
+B.) 1 2 3
+
+
+C.) 0 1 2 3
+
+
+D.) 0 1 2 3 4
+
+<details>
+ <summary>Show Answer</summary><br>
+
+**C.) 0 1 2 3**
+
+</details>
+
+---
+
+
+7.) What do these lines print?
+
+<pre><code>for i in range(2, 4):
+    print(i, end=" ")</pre></code>
+
+A.) 2 4
+
+
+B.) 2 3
+
+
+C.) 2 3 4
+
+
+D.) 3 4
+
+<details>
+ <summary>Show Answer</summary><br>
+
+**B.) 2 3**
+
+</details>
+
+---
+
+
+
+
+8.) What do these lines print?
+
+<pre><code>for i in range(2, 10, 2):
+    print(i, end=" ")</pre></code>
+
+A.) 2 3 4 5 6 7 8 9 10
+
+
+B.) 2 3 4 5 6 7 8 9
+
+
+C.) 4 6 8 10 12 14 16 18
+
+
+D.) 2 4 6 8
+
+<details>
+ <summary>Show Answer</summary><br>
+
+**D.) 2 4 6 8**
+
+</details>
+
+---
     
 
