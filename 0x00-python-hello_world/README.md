@@ -320,7 +320,7 @@ E.) is
 **10.) What does this command line print?**
 
 <pre><code> >>> a = "Python is cool"
->>> print(a[-2])</pre></code></code>
+>>> print(a[-2])</pre></code>
 
 A.) ol
 
@@ -338,7 +338,7 @@ D.) Nothing
 
 **C.) o**
 
-</details>
+</details></code>
 
 ---
 
