@@ -52,7 +52,7 @@ else:
     <p>B.) School</p>
 
 <details>
- <summary>Show Answer</summary><br>
+<summary><strong>Show Answer</strong></summary><br>
 
 **A.) Hoberton**
 
@@ -84,7 +84,7 @@ else:
 </label></li>
 
   <details>
- <summary>Show Answer</summary><br>
+<summary><strong>Show Answer</strong></summary><br>
 
 **B.) School**
 
@@ -105,7 +105,7 @@ A.) Holberton
 B.) School
 
  <details>
- <summary>Show Answer</summary><br>
+<summary><strong>Show Answer</strong></summary><br>
 
 **A.) Hoberton**
 
@@ -133,7 +133,7 @@ B.) C is fun
 C.) School
 
 <details>
- <summary>Show Answer</summary><br>
+<summary><strong>Show Answer</strong></summary><br>
 
 **A.) Hoberton**
 
@@ -161,7 +161,7 @@ B.) C is fun
 C.) School
 
 <details>
- <summary>Show Answer</summary><br>
+<summary><strong>Show Answer</strong></summary><br>
 
 **B.) C is fun**
 
@@ -186,7 +186,7 @@ C.) 0 1 2 3
 D.) 0 1 2 3 4
 
 <details>
- <summary>Show Answer</summary><br>
+<summary><strong>Show Answer</strong></summary><br>
 
 **C.) 0 1 2 3**
 
@@ -212,7 +212,7 @@ C.) 2 3 4
 D.) 3 4
 
 <details>
- <summary>Show Answer</summary><br>
+<summary><strong>Show Answer</strong></summary><br>
 
 **B.) 2 3**
 
@@ -240,7 +240,7 @@ C.) 4 6 8 10 12 14 16 18
 D.) 2 4 6 8
 
 <details>
- <summary>Show Answer</summary><br>
+<summary><strong>Show Answer</strong></summary><br>
 
 **D.) 2 4 6 8**
 
