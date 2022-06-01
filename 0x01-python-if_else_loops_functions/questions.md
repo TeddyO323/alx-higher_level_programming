@@ -22,7 +22,7 @@ else:
 <p>B.) School</p>
 
 <details>
-<strong><summary>Show Answer</summary></strong><br>
+<summary><strong>Show Answer</strong></summary><br>
 
 **A.) Hoberton**
 
