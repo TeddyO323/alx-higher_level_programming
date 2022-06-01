@@ -84,7 +84,7 @@ Namespaces are one honking great idea -- let&#39;s do more of those!
 
 # QUIZ
 
-**1.) Who created Python?**
+<code>**1.) Who created Python?**
 
 
 A.) Julien Barbier
@@ -159,7 +159,7 @@ D.) 8 Battery street
 
 **4.) What does this command line print?**
 
-<pre><code> >>> print(f"{98} Battery street, {'San Francisco'}")</pre><code>
+<pre><code> >>> print(f"{98} Battery street, {'San Francisco'}")</pre></code>
 
 A.) “98 Battery street, San Francisco”
 
@@ -320,7 +320,7 @@ E.) is
 **10.) What does this command line print?**
 
 <pre><code> >>> a = "Python is cool"
->>> print(a[-2])</pre></code>
+>>> print(a[-2])</pre></code></code>
 
 A.) ol
 
