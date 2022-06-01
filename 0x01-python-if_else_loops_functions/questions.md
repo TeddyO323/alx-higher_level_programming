@@ -14,14 +14,14 @@ else:
 
 </label></li>
 
-                <li class="">
+               
 <input type="checkbox" name="quiz-answer-1501132893370" id="quiz-answer-1501132893370" data-quiz-question-id="216" data-quiz-answer-id="1501132893370" disabled="disabled" />
   <label for="quiz-answer-1501132893370">
     <p>School</p>
 
 </label></li>
 
-        </ul>
+      
 
   
 </div>
