@@ -26,7 +26,7 @@
   
 # QUIZ
     
-**<p>0.) What do these lines print?</p>**
+<code>**<p>0.) What do these lines print?</p>**
 
 <pre><code>if True:
     print(&quot;Holberton&quot;)
@@ -117,7 +117,7 @@ else:
 
 ---
 
-3.) What do these lines print?
+**3.) What do these lines print?**
 
 <pre><code>if 12 == 48/3 or 12 is 12:
     print("Holberton")
@@ -269,7 +269,7 @@ D.) 2 4 6 8
 
 **D.) 2 4 6 8**
 
-</details>
+</details></code>
 
 ---
     
