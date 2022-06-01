@@ -83,7 +83,7 @@ else:
 
 </label></li>
 
-      <details>
+  <details>
  <summary>Show Answer</summary><br>
 
 **B.) School**
@@ -94,10 +94,10 @@ else:
 
 3.) What do these lines print?
 
-<code>if 12 == 48/3 or 12 is 12:
+<pre><code>if 12 == 48/3 or 12 is 12:
     print("Holberton")
 else:
-    print("School")</code>
+    print("School")</code></pre>
 
 Holberton
 
