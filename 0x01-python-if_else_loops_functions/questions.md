@@ -59,7 +59,8 @@ else:
 </details>
 
 <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
-<span class="pl-c1">test</span>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="composer test"><pre>composer <span class="pl-c1">test</span></pre></div>
+
 
 
 
