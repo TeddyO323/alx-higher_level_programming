@@ -44,17 +44,17 @@ else:
   
 <input type="checkbox" name="quiz-answer-1501132898681" id="quiz-answer-1501132898681" data-quiz-question-id="217" data-quiz-answer-id="1501132898681" disabled="disabled" checked="checked" />
 <label for="quiz-answer-1501132898681">
-    <p>Holberton</p>
+    <p>A.) Holberton</p>
 
 
 <input type="checkbox" name="quiz-answer-1501132901615" id="quiz-answer-1501132901615" data-quiz-question-id="217" data-quiz-answer-id="1501132901615" disabled="disabled" />
 <label for="quiz-answer-1501132901615">
-    <p>School</p>
+    <p>B.) School</p>
 
 <details>
  <summary>Show Answer</summary>
 
-**Hoberton**
+**A.) Hoberton**
 
 </details>
 
