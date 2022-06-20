@@ -556,21 +556,7 @@ guillaume@ubuntu:~/0x05$
 
 
 # 10. CPython #2: PyFloatObject
-    </h3>
-
-    <div>
-        <span class="label label-info">
-          #advanced
-        </span>
-    </div>
-  </div>
-
-  <div class="panel-body">
-    <span id="user_id" data-id="11739"></span>
-
-    <!-- Progress vs Score -->
-
-    <!-- Task Body -->
+    
     <p>Create three C functions that print some basic info about Python lists, Python bytes an Python float objects.<br />
 <br />
 <img src="https://github.com/TeddyO323/photos/blob/main/070710952984e4d126e114405cefe83af2271ce8.gif?raw=true" alt="" style="" />
