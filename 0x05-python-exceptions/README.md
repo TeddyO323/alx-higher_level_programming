@@ -573,7 +573,7 @@ guillaume@ubuntu:~/0x05$
     <!-- Task Body -->
     <p>Create three C functions that print some basic info about Python lists, Python bytes an Python float objects.<br />
 <br />
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/070710952984e4d126e114405cefe83af2271ce8.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220620%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220620T214831Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7c6eb5961197c13086b582a80da19c724f5fee50cfbf0080b90a979a0bbff322" alt="" style="" />
+<img src="https://github.com/TeddyO323/photos/blob/main/070710952984e4d126e114405cefe83af2271ce8.gif?raw=true" alt="" style="" />
 <br />
 Python lists:</p>
 
