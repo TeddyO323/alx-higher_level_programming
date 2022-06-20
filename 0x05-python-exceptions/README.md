@@ -557,7 +557,7 @@ guillaume@ubuntu:~/0x05$
 
 # 10. CPython #2: PyFloatObject
     
-    <p>Create three C functions that print some basic info about Python lists, Python bytes an Python float objects.<br />
+ <p>Create three C functions that print some basic info about Python lists, Python bytes an Python float objects.<br />
 <br />
 <img src="https://github.com/TeddyO323/photos/blob/main/070710952984e4d126e114405cefe83af2271ce8.gif?raw=true" alt="" style="" />
 <br />
