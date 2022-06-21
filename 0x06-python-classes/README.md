@@ -51,7 +51,7 @@ The biggest and most important takeaway of this project is: experiment by yourse
 # QUIZ
 
 
-**1.) In this following code, what is <code>User</code>?**
+## 1.) In this following code, what is <code>User</code>?
 
 <pre><code>class User:
     id = 89
@@ -64,51 +64,23 @@ The biggest and most important takeaway of this project is: experiment by yourse
             self.name = new_name
 </code></pre>
 
+A.) A class
 
-     <ul class="quiz_question_answers" data-question-id="248">
-                <li class="">
-  <input type="checkbox" name="quiz-answer-1501193339111" id="quiz-answer-1501193339111" data-quiz-question-id="248" data-quiz-answer-id="1501193339111" disabled="disabled" checked="checked" />
-  <label for="quiz-answer-1501193339111">
-    <p>A class</p>
 
-</label></li>
+B.) A string
 
-           <li class="">
-  <input type="checkbox" name="quiz-answer-1501193345296" id="quiz-answer-1501193345296" data-quiz-question-id="248" data-quiz-answer-id="1501193345296" disabled="disabled" />
-  <label for="quiz-answer-1501193345296">
-    <p>A string</p>
 
-</label></li>
+C.) An attribute
 
-           <li class="">
-  <input type="checkbox" name="quiz-answer-1501193351736" id="quiz-answer-1501193351736" data-quiz-question-id="248" data-quiz-answer-id="1501193351736" disabled="disabled" />
-  <label for="quiz-answer-1501193351736">
-    <p>An attribute</p>
 
-</label></li>
+D.) A method
 
-         <li class="">
-  <input type="checkbox" name="quiz-answer-1501193358123" id="quiz-answer-1501193358123" data-quiz-question-id="248" data-quiz-answer-id="1501193358123" disabled="disabled" />
-  <label for="quiz-answer-1501193358123">
-    <p>A method</p>
 
-</label></li>
+E.) An instance
 
-        <li class="">
-  <input type="checkbox" name="quiz-answer-1501193367507" id="quiz-answer-1501193367507" data-quiz-question-id="248" data-quiz-answer-id="1501193367507" disabled="disabled" />
-  <label for="quiz-answer-1501193367507">
-    <p>An instance</p>
+<details>
+<summary><strong>Show Answer</strong></summary><br>
 
-</label></li>
+**A.) A class**
 
-      </ul>
-
-    <!-- Quiz question Tips -->
-
-</div>
-
-          </div>
- <div class="quiz_question_item_container" data-role="quiz_question249" data-position="2">
-    <div class=" clearfix" id="quiz_question-249">
-
-    <h4 class="quiz_question">
+</details>
