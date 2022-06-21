@@ -48,6 +48,8 @@ The biggest and most important takeaway of this project is: experiment by yourse
 <li>How to use the <code>getattr</code> function</li>
 </ul>
 
+---
+
 # QUIZ
 
 
@@ -84,3 +86,242 @@ E.) An instance
 **A.) A class**
 
 </details>
+
+---
+
+### 2.) In this following code, what is <code>id</code>?
+
+<pre><code>class User:
+    id = 89
+    name = &quot;no name&quot;
+    __password = None
+
+    def __init__(self, new_name=None):
+        self.is_new = True
+        if new_name is not None:
+            self.name = new_name
+</code></pre>
+
+A.) A public instance attribute
+
+
+B.) A public class attribute
+
+
+C.) A public class method
+
+
+D.) A public instance method
+
+
+E.) A private class attribute
+
+
+F.) A protected class attribute
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**B.) A public class attribute**
+
+</details>
+
+---
+
+ 
+### 3.) In this following code, what is <code>__password</code>?
+
+<pre><code>class User:
+    id = 89
+    name = &quot;no name&quot;
+    __password = None
+
+    def __init__(self, new_name=None):
+        self.is_new = True
+        if new_name is not None:
+            self.name = new_name
+</code></pre>
+
+A.) A public class attribute
+
+
+B.) A public instance attribute
+
+
+C.) A protected class attribute
+
+
+D.) A protected instance attribute
+
+
+E.) A private class attribute
+
+
+F.) A private instance attribute
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**E.) A private class attribute**
+
+</details>
+
+---
+
+### 4.) In this following code, what is <code>is_new</code>?
+
+<pre><code>class User:
+    id = 89
+    name = &quot;no name&quot;
+    __password = None
+
+    def __init__(self, new_name=None):
+        self.is_new = True
+        if new_name is not None:
+            self.name = new_name
+</code></pre>
+
+A.) A public class attribute
+
+
+B.) A public instance attribute
+
+
+C.) A protected class attribute
+
+
+D.) A protected instance attribute
+
+
+E.) A private class attribute
+
+
+F.) A private instance attribute
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**B.) A public instance attribute**
+
+</details>
+
+---
+
+### 5.) What do these lines print?</p>
+
+<pre><code>&gt;&gt;&gt; class User:
+&gt;&gt;&gt;     id = 89
+&gt;&gt;&gt;     name = &quot;no name&quot;
+&gt;&gt;&gt;     __password = None
+&gt;&gt;&gt;     
+&gt;&gt;&gt;     def __init__(self, new_name=None):
+&gt;&gt;&gt;         self.is_new = True
+&gt;&gt;&gt;         if new_name is not None:
+&gt;&gt;&gt;             self.name = new_name
+&gt;&gt;&gt; 
+&gt;&gt;&gt; u = User()
+&gt;&gt;&gt; u.is_new
+</code></pre>
+
+A.) is_new
+
+
+B.) Nothing
+
+
+C.) False
+
+
+D.) True
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**D.) True**
+
+</details>
+
+---
+
+### 6.) What do these lines print?
+
+<pre><code>&gt;&gt;&gt; class User:
+&gt;&gt;&gt;     id = 89
+&gt;&gt;&gt;     name = &quot;no name&quot;
+&gt;&gt;&gt;     __password = None
+&gt;&gt;&gt;     
+&gt;&gt;&gt;     def __init__(self, new_name=None):
+&gt;&gt;&gt;         self.is_new = True
+&gt;&gt;&gt;         if new_name is not None:
+&gt;&gt;&gt;             self.name = new_name
+&gt;&gt;&gt; 
+&gt;&gt;&gt; u = User()
+&gt;&gt;&gt; u.id
+</code></pre>
+
+A.) name
+
+
+B.) None
+
+
+C.) John
+
+
+D.) no name
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**C.) John**
+
+</details>
+
+---
+
+### 7.) What do these lines print?
+
+<pre><code>&gt;&gt;&gt; class User:
+&gt;&gt;&gt;     id = 89
+&gt;&gt;&gt;     name = &quot;no name&quot;
+&gt;&gt;&gt;     __password = None
+&gt;&gt;&gt;     
+&gt;&gt;&gt;     def __init__(self, new_name=None):
+&gt;&gt;&gt;         self.is_new = True
+&gt;&gt;&gt;         if new_name is not None:
+&gt;&gt;&gt;             self.name = new_name
+&gt;&gt;&gt; 
+&gt;&gt;&gt; u = User(&quot;John&quot;)
+&gt;&gt;&gt; u.name
+</code></pre>
+
+A.) name
+
+
+B.) None
+
+
+C.) John
+
+
+D.) no name
+
+<details>
+<summary><strong>Show Answer</strong></summary><br>
+
+**D.) no name**
+
+</details>
+
+---
+
+
+
+
+
+
+
+
+
+
+
