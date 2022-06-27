@@ -1,6 +1,5 @@
 # 0x08. Python - More Classes and Objects
 
-__init__
 
 
 # Resources
@@ -26,7 +25,8 @@ __init__
 <li>What is an object and an instance</li>
 <li>What is the difference between a class and an object or instance</li>
 <li>What is an attribute</li>
-<li>What are and how to use public, protected and private attributes</li>
+<li>What are and how to__init__
+ use public, protected and private attributes</li>
 <li>What is <code>self</code></li>
 <li>What is a method</li>
 <li>What is the special <code>__init__</code> method and how to use it</li>
