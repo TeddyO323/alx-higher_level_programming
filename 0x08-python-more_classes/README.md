@@ -44,26 +44,6 @@
 <li>How to use the <code>getattr</code> function</li>
 </ul>
 
-<code>__init__</code> ?
+__init__
 
-A.) A class attribute
-
-
-B.) A class method
-
-
-C.) The instance method called when a new object is created
-
-
-D.) The instance method called when a class is called for the first time
-
-
-<details>
-<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
-
-**C.) The instance method called when a new object is created**
-
-</details>
-
----
 
