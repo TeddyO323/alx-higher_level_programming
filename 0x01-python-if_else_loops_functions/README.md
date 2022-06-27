@@ -22,11 +22,13 @@
 </ul>
 
 ---
+<details>
+<summary><strong>Show Quiz/Hide Quiz</strong></summary><br>
 
   
 # QUIZ
     
-<code>**<p>0.) What do these lines print?</p>**
+**<p>0.) What do these lines print?</p>**
 
 <pre><code>if True:
     print(&quot;Holberton&quot;)
@@ -47,7 +49,7 @@ else:
 <p>B.) School</p>
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **A.) Hoberton**
 
@@ -77,7 +79,7 @@ else:
     <p>B.) School</p>
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **A.) Hoberton**
 
@@ -109,7 +111,7 @@ else:
 </label></li>
 
   <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **B.) School**
 
@@ -130,7 +132,7 @@ A.) Holberton
 B.) School
 
  <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **A.) Hoberton**
 
@@ -158,7 +160,7 @@ B.) C is fun
 C.) School
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **A.) Hoberton**
 
@@ -186,7 +188,7 @@ B.) C is fun
 C.) School
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **B.) C is fun**
 
@@ -211,7 +213,7 @@ C.) 0 1 2 3
 D.) 0 1 2 3 4
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **C.) 0 1 2 3**
 
@@ -237,7 +239,7 @@ C.) 2 3 4
 D.) 3 4
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **B.) 2 3**
 
@@ -265,7 +267,7 @@ C.) 4 6 8 10 12 14 16 18
 D.) 2 4 6 8
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **D.) 2 4 6 8**
 
