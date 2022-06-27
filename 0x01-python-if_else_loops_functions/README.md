@@ -278,7 +278,7 @@ D.) 2 4 6 8
     
 
 <details>
-<summary><strong>Show Tasks/Hide Taks</strong></summary><br>
+<summary><strong>Show Tasks/Hide Tasks</strong></summary><br>
 
 
 # TASKS
