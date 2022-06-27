@@ -471,6 +471,8 @@ guillaume@ubuntu:~/0x08$
             <li>Directory: <code>0x08-python-more_classes</code></li>
             <li>File: <code>0-rectangle.py</code></li>
         </ul>
+    
+ ---
 
 # 1. Real definition of a rectangle
     
@@ -532,6 +534,8 @@ guillaume@ubuntu:~/0x08$
             <li>File: <code>1-rectangle.py</code></li>
         </ul>
       </div>
+
+---  
 
 # 2. Area and Perimeter
     
@@ -601,6 +605,8 @@ guillaume@ubuntu:~/0x08$
             <li>Directory: <code>0x08-python-more_classes</code></li>
             <li>File: <code>2-rectangle.py</code></li>
         </ul>
+
+  ---      
 
   # 3. String representation
     
@@ -691,6 +697,8 @@ guillaume@ubuntu:~/0x08$
             <li>File: <code>3-rectangle.py</code></li>
         </ul>
       </div>
+
+      ---
 
 # 4. Eval is magic
    
@@ -810,6 +818,8 @@ guillaume@ubuntu:~/0x08$
         </ul>
       </div>
 
+      ---
+
   # 5. Detect instance deletion
     
   <p>Write a class <code>Rectangle</code> that defines a rectangle by: (based on <code>4-rectangle.py</code>)</p>
@@ -884,6 +894,8 @@ guillaume@ubuntu:~/0x08$
             <li>Directory: <code>0x08-python-more_classes</code></li>
             <li>File: <code>5-rectangle.py</code></li>
         </ul>
+
+        --- 
 
   # 6. How many instances
    
@@ -968,6 +980,8 @@ guillaume@ubuntu:~/0x08$
             <li>Directory: <code>0x08-python-more_classes</code></li>
             <li>File: <code>6-rectangle.py</code></li>
         </ul>
+
+        --- 
 
   # 7. Change representation
     
@@ -1097,6 +1111,8 @@ guillaume@ubuntu:~/0x08$
         </ul>
       </div>
 
+      --- 
+
   # 8. Compare rectangles
     
   <p>Write a class <code>Rectangle</code> that defines a rectangle by: (based on <code>7-rectangle.py</code>)</p>
@@ -1202,6 +1218,8 @@ guillaume@ubuntu:~/0x08$
             <li>File: <code>8-rectangle.py</code></li>
         </ul>
 
+--- 
+
 # 9. A square is a rectangle
    
 <p>Write a class <code>Rectangle</code> that defines a rectangle by: (based on <code>8-rectangle.py</code>)</p>
@@ -1297,6 +1315,8 @@ guillaume@ubuntu:~/0x08$
             <li>Directory: <code>0x08-python-more_classes</code></li>
             <li>File: <code>9-rectangle.py</code></li>
         </ul>
+
+---
 
 # 10. N queens
     
