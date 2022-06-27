@@ -5,12 +5,12 @@
 <p><strong>Read or watch</strong>:</p>
 
 <ul>
-<li><a href="/rltoken/M-MFweENpRdEfRto_Gzlvg" title="Object Oriented Programming" target="_blank">Object Oriented Programming</a> (<em>Read everything until the paragraph &ldquo;Inheritance&rdquo; (excluded)</em>)</li>
-<li><a href="/rltoken/_Awd8Gn4SBdq2FRd_bY8KA" title="Object-Oriented Programming" target="_blank">Object-Oriented Programming</a> (<em>Please be careful: in most of the following paragraphs, the author shows the way you should not use or write a class, in order to help you better understand some concepts and how everything works in Python 3. Make sure you read only the following paragraphs: &ldquo;General Introduction,&rdquo; &ldquo;First-class Everything,&rdquo; &ldquo;A Minimal Class in Python,&rdquo; &ldquo;Attributes,&rdquo; &ldquo;Methods,&rdquo; &ldquo;The <code>__init__</code> Method,&rdquo;  &ldquo;Data Abstraction, Data Encapsulation, and Information Hiding,&rdquo; &ldquo;<code>__str__</code>- and <code>__repr__</code>-Methods,&rdquo; &ldquo;Public- Protected- and Private Attributes,&rdquo; &amp; &ldquo;Destructor&rdquo;</em>)</li>
-<li><a href="/rltoken/SGQIevRxW6lTgr4jGDzXbw" title="Class and Instance Attributes" target="_blank">Class and Instance Attributes</a> </li>
-<li><a href="/rltoken/Ij1EnTg02gtIknOkNv4xGA" title="classmethods and staticmethods" target="_blank">classmethods and staticmethods</a> </li>
-<li><a href="/rltoken/xjpk-jUNe0uGEzcNXbwIHQ" title="Properties vs. Getters and Setters" target="_blank">Properties vs. Getters and Setters</a> (<em>Mainly the last part &ldquo;Public instead of Private Attributes&rdquo;</em>)</li>
-<li><a href="/rltoken/iu1ILT-t6FMuZvk7vRvfuQ" title="str vs repr" target="_blank">str vs repr</a> </li>
+<li><a href="https://python.swaroopch.com/oop.html" title="Object Oriented Programming" target="_blank">Object Oriented Programming</a> (<em>Read everything until the paragraph &ldquo;Inheritance&rdquo; (excluded)</em>)</li>
+<li><a href="https://python-course.eu/oop/object-oriented-programming.php" title="Object-Oriented Programming" target="_blank">Object-Oriented Programming</a> (<em>Please be careful: in most of the following paragraphs, the author shows the way you should not use or write a class, in order to help you better understand some concepts and how everything works in Python 3. Make sure you read only the following paragraphs: &ldquo;General Introduction,&rdquo; &ldquo;First-class Everything,&rdquo; &ldquo;A Minimal Class in Python,&rdquo; &ldquo;Attributes,&rdquo; &ldquo;Methods,&rdquo; &ldquo;The <code>__init__</code> Method,&rdquo;  &ldquo;Data Abstraction, Data Encapsulation, and Information Hiding,&rdquo; &ldquo;<code>__str__</code>- and <code>__repr__</code>-Methods,&rdquo; &ldquo;Public- Protected- and Private Attributes,&rdquo; &amp; &ldquo;Destructor&rdquo;</em>)</li>
+<li><a href="https://python-course.eu/oop/class-instance-attributes.php" title="Class and Instance Attributes" target="_blank">Class and Instance Attributes</a> </li>
+<li><a href="https://www.youtube.com/watch?v=rq8cL2XMM5M" title="classmethods and staticmethods" target="_blank">classmethods and staticmethods</a> </li>
+<li><a href="https://python-course.eu/oop/properties-vs-getters-and-setters.php" title="Properties vs. Getters and Setters" target="_blank">Properties vs. Getters and Setters</a> (<em>Mainly the last part &ldquo;Public instead of Private Attributes&rdquo;</em>)</li>
+<li><a href="https://shipit.dev/posts/python-str-vs-repr.html" title="str vs repr" target="_blank">str vs repr</a> </li>
 </ul>
 
 # Learning Objectives
