@@ -442,7 +442,7 @@ D.) 98
 
 # 0. Simple rectangle
     
-Write an empty class <code>Rectangle</code> that defines a rectangle:](./0-rectangle.py)
+<p>Write an empty class <code>Rectangle</code> that defines a rectangle:</p>
 
 <ul>
 <li>You are not allowed to import any module</li>
