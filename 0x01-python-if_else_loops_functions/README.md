@@ -271,7 +271,8 @@ D.) 2 4 6 8
 
 **D.) 2 4 6 8**
 
-</details></code>
+</details>
+</details>
 
 ---
     
