@@ -39,7 +39,7 @@
 <li>What is a static method</li>
 <li>How to dynamically create arbitrary new attributes for existing instances of a class</li>
 <li>How to bind attributes to object and classes</li>
-<li>What is and what does contain <code>__dict__</code> __in___ of a class and of an instance of a class</li>
+<li>What is and what does contain <code>__dict__</code> __in__ of a class and of an instance of a class</li>
 <li>How does Python find the attributes of an object or class</li>
 <li>How to use the <code>getattr</code> function</li>
 </ul>
