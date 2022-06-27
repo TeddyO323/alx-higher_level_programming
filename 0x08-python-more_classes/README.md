@@ -46,9 +46,6 @@
 
 
 
-
-# QUIZ
-
 1.) What is <code>__init__</code> ?
 
 A.) A class attribute
