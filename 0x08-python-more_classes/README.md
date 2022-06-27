@@ -76,6 +76,45 @@ D.) The instance method called when a class is called for the first time
 
 ---
 
+<p>2.) What is <code>__str__</code>?</p>
+
+A.) Instance method that returns an “informal” and nicely printable string representation of an instance
+
+
+B.) Instance method that returns the dictionary representation of an instance
+
+
+C.) Instance method that prints an “informal” and nicely printable string representation of an instance
+
+<details>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
+
+**A.) Instance method that returns an “informal” and nicely printable string representation of an instance**
+
+</details>
+
+---
+
+<p>3.) What is <code>__repr__</code>?</p>
+
+A.) Instance method that prints an “official” string representation of an instance
+
+
+B.) Instance method that returns an “official” string representation of an instance
+
+
+C.) Instance method that returns the dictionary representation of an instance
+
+<details>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
+
+**B.) Instance method that returns an “official” string representation of an instance
+**
+
+</details>
+
+---
+
 </details>
 
 
