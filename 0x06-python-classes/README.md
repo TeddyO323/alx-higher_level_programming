@@ -90,7 +90,7 @@ D.) A method
 E.) An instance
 
 <details>
-<code><summary><strong>Show Answer/Hide Answer</strong></summary></code><br>
+<summary></code><strong>Show Answer/Hide Answer</strong></code></summary><br>
 
 **A.) A class**
 
