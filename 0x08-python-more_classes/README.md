@@ -47,8 +47,13 @@
 
 </ul>
 
+<details>
+<summary><strong>Show Quiz/Hide Quiz</strong></summary><br>
+
 # QUIZ
 
  <p>What is <code>__init__</code>? </p>
+
+</details>
 
 
