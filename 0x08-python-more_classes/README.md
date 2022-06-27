@@ -44,6 +44,8 @@
 <li>What is and what does contain <code>__dict__</code> of a class and of an instance of a class</li>
 <li>How does Python find the attributes of an object or class</li>
 <li>How to use the <code>getattr</code> function</li>
+    <p>What is <code>__init__</code>? </p>
+
 </ul>
 
 
