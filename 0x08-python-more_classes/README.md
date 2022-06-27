@@ -54,7 +54,18 @@
 
 # QUIZ
 
- <p>What is <code>__init__</code>? </p>
+ ### <p>1.) What is <code>__init__</code>? </p>
+
+A.) A class attribute
+
+
+B.) A class method
+
+
+C.) The instance method called when a new object is created
+
+
+D.) The instance method called when a class is called for the first time
 
 </details>
 
