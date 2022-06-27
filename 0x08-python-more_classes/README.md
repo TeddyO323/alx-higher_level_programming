@@ -476,6 +476,8 @@ guillaume@ubuntu:~/0x08$
  ---
 
 # 1. Real definition of a rectangle
+[(answer)](./1-rectangle.py)
+
     
 <p>Write a class <code>Rectangle</code> that defines a rectangle by: (based on <code>0-rectangle.py</code>)</p>
 
@@ -539,6 +541,8 @@ guillaume@ubuntu:~/0x08$
 ---  
 
 # 2. Area and Perimeter
+[(answer)](./2-rectangle.py)
+
     
   <p>Write a class <code>Rectangle</code> that defines a rectangle by: (based on <code>1-rectangle.py</code>)</p>
 
@@ -610,6 +614,8 @@ guillaume@ubuntu:~/0x08$
 ---      
 
   # 3. String representation
+  [(answer)](./3-rectangle.py)
+
     
    
 <p>Write a class <code>Rectangle</code> that defines a rectangle by: (based on <code>2-rectangle.py</code>)</p>
@@ -702,6 +708,8 @@ guillaume@ubuntu:~/0x08$
 ---
 
 # 4. Eval is magic
+[(answer)](./4-rectangle.py)
+
    
   <p>Write a class <code>Rectangle</code> that defines a rectangle by: (based on <code>3-rectangle.py</code>)</p>
 
@@ -822,6 +830,9 @@ guillaume@ubuntu:~/0x08$
 ---
 
   # 5. Detect instance deletion
+
+  [(answer)](./5-rectangle.py)
+
     
   <p>Write a class <code>Rectangle</code> that defines a rectangle by: (based on <code>4-rectangle.py</code>)</p>
 
@@ -899,6 +910,8 @@ guillaume@ubuntu:~/0x08$
 --- 
 
   # 6. How many instances
+  [(answer)](./6-rectangle.py)
+
    
   <p>Write a class <code>Rectangle</code> that defines a rectangle by: (based on <code>5-rectangle.py</code>)</p>
 
@@ -985,6 +998,8 @@ guillaume@ubuntu:~/0x08$
 --- 
 
   # 7. Change representation
+  [(answer)](./7-rectangle.py)
+
     
   <p>Write a class <code>Rectangle</code> that defines a rectangle by: (based on <code>6-rectangle.py</code>)</p>
 
@@ -1115,6 +1130,8 @@ guillaume@ubuntu:~/0x08$
 --- 
 
   # 8. Compare rectangles
+  [(answer)](./8-rectangle.py)
+
     
   <p>Write a class <code>Rectangle</code> that defines a rectangle by: (based on <code>7-rectangle.py</code>)</p>
 
@@ -1222,6 +1239,8 @@ guillaume@ubuntu:~/0x08$
 --- 
 
 # 9. A square is a rectangle
+[(answer)](./9-rectangle.py)
+
    
 <p>Write a class <code>Rectangle</code> that defines a rectangle by: (based on <code>8-rectangle.py</code>)</p>
 
@@ -1320,6 +1339,8 @@ guillaume@ubuntu:~/0x08$
 ---
 
 # 10. N queens
+[(answer)](./101-nqueens.py)
+
     
   <p><img src="http://www.crestbook.com/files/Judit-photo1_602x433.jpg"/><br />
 <small>Chess grandmaster <a href="https://en.wikipedia.org/wiki/Judit_Polg%C3%A1r" title="Judit Polgár" target="_blank">Judit Polgár</a>, the strongest female chess player of all time</small><br />
