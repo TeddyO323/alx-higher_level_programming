@@ -50,7 +50,7 @@
 # QUIZ
 
 1.) What is <code>__init__</code> ?
-
+__init__
 A.) A class attribute
 
 
