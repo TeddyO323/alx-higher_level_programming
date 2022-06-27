@@ -57,7 +57,7 @@ The biggest and most important takeaway of this project is: experiment by yourse
 ---
 
 <details>
-<summary><strong>Show Quiz/Hide Quiz</strong></summary><br>
+<summary><strong><code>Show Quiz/Hide Quiz</code></strong></summary><br>
 
 # QUIZ
 
@@ -89,12 +89,12 @@ D.) A method
 
 E.) An instance
 
-<code><details>
+<details>
 <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **A.) A class**
 
-</details></code>
+</details>
 
 ---
 
