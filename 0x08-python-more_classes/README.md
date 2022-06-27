@@ -606,7 +606,7 @@ guillaume@ubuntu:~/0x08$
             <li>File: <code>2-rectangle.py</code></li>
         </ul>
 
-  ---      
+---      
 
   # 3. String representation
     
@@ -698,7 +698,7 @@ guillaume@ubuntu:~/0x08$
         </ul>
       </div>
 
-      ---
+---
 
 # 4. Eval is magic
    
@@ -818,7 +818,7 @@ guillaume@ubuntu:~/0x08$
         </ul>
       </div>
 
-      ---
+---
 
   # 5. Detect instance deletion
     
@@ -895,7 +895,7 @@ guillaume@ubuntu:~/0x08$
             <li>File: <code>5-rectangle.py</code></li>
         </ul>
 
-        --- 
+--- 
 
   # 6. How many instances
    
@@ -981,7 +981,7 @@ guillaume@ubuntu:~/0x08$
             <li>File: <code>6-rectangle.py</code></li>
         </ul>
 
-        --- 
+--- 
 
   # 7. Change representation
     
@@ -1111,7 +1111,7 @@ guillaume@ubuntu:~/0x08$
         </ul>
       </div>
 
-      --- 
+--- 
 
   # 8. Compare rectangles
     
