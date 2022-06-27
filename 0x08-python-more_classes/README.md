@@ -536,7 +536,6 @@ guillaume@ubuntu:~/0x08$
       </div>
 
 ---  
----
 
 # 2. Area and Perimeter
     
