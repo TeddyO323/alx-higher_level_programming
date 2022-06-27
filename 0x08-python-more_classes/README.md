@@ -54,7 +54,7 @@
 
 # QUIZ
 
- ### <p>1.) What is <code>__init__</code>? </p>
+  <p>1.) What is <code>__init__</code>? </p>
 
 A.) A class attribute
 
