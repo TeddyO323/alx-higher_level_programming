@@ -89,12 +89,12 @@ D.) A method
 
 E.) An instance
 
-<details>
-<summary></code><strong>Show Answer/Hide Answer</strong></code></summary><br>
+<code><details>
+<summary><strong>Show Answer/Hide Answer</strong></summary><br>
 
 **A.) A class**
 
-</details>
+</details></code>
 
 ---
 
