@@ -57,7 +57,7 @@ The biggest and most important takeaway of this project is: experiment by yourse
 ---
 
 <details>
-<summary><code>Show Quiz/Hide Quiz</code></summary><br>
+<summary>Show Quiz/Hide Quiz</summary><br>
 
 # QUIZ
 
@@ -129,7 +129,7 @@ E.) A private class attribute
 F.) A protected class attribute
 
 <details>
-<summary><strong><pre><code>Show Answer/Hide Answer</code></pre></strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **B.) A public class attribute**
 
@@ -169,7 +169,7 @@ E.) A private class attribute
 F.) A private instance attribute
 
 <details>
-<summary><strong><pre><code>Show Answer/Hide Answer</code></pre></strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **E.) A private class attribute**
 
@@ -208,7 +208,7 @@ E.) A private class attribute
 F.) A private instance attribute
 
 <details>
-<summary><strong><pre><code>Show Answer/Hide Answer</code></pre></strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **B.) A public instance attribute**
 
@@ -244,7 +244,7 @@ C.) False
 D.) True
 
 <details>
-<summary><strong><pre><code>Show Answer/Hide Answer</code></pre></strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **D.) True**
 
@@ -280,7 +280,7 @@ C.) John
 D.) no name
 
 <details>
-<summary><strong><pre><code>Show Answer/Hide Answer</code></pre></strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **C.) John**
 
@@ -316,7 +316,7 @@ C.) John
 D.) no name
 
 <details>
-<summary><strong><pre><code>Show Answer/Hide Answer</code></pre></strong></summary><br>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **D.) no name**
 
