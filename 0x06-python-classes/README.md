@@ -57,7 +57,7 @@ The biggest and most important takeaway of this project is: experiment by yourse
 ---
 
 <details>
-<summary>Show Quiz/Hide Quiz</summary><br>
+<summary><strong>Show Quiz/Hide Quiz</strong></summary><br>
 
 # QUIZ
 
