@@ -134,21 +134,21 @@ C.) Instance method called when an instance is deleted
 ---
 
 <p>5.) What is <code>__doc__</code>?</p>
-<ol>
+<ol class = "A">
 
 <li>The string documentation of an object (based on docstring)</li>
 
 
-<li>Prints the documentation of an object</li>
+Prints the documentation of an object
 
 
-<li>Creates man file</li>
+Creates man file
 
 <details>
 <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
-**<li>The string documentation of an object (based on docstring)</li>**
-</ol>
+**The string documentation of an object (based on docstring)**
+
 
 </details>
 
