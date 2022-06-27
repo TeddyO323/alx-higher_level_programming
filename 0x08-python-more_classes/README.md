@@ -440,7 +440,8 @@ D.) 98
 
 # TASKS
 
-# 0. Simple rectangle [(answer)](./0-rectangle.py)
+# 0. Simple rectangle [(answer)] 
+(./0-rectangle.py)
     
 <p>Write an empty class <code>Rectangle</code> that defines a rectangle:</p>
 
