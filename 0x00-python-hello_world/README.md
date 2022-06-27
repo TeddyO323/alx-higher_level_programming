@@ -82,7 +82,6 @@ Namespaces are one honking great idea -- let&#39;s do more of those!
 
 ---
 <details>
-
 <summary><strong>Show Quiz/Hide Quiz</strong></summary><br>
 
 
@@ -100,7 +99,7 @@ B.) Yukihiro Matsumoto
 C) Guido van Rossum
 
 <details>
-
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **C) Guido van Rossum**
 
@@ -125,7 +124,7 @@ C.) Holberton school
 D.) ‘Holberton school’
 
 <details>
-
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **C.) Holberton school**
 
@@ -150,7 +149,7 @@ C.) 9 Battery street
 D.) 8 Battery street
 
 <details>
-
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **A.) 98 Battery street**
 
@@ -177,7 +176,7 @@ C.) 98 Battery street, San Francisco
 D.) San Francisco Battery street, 98
 
 <details>
-
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **C.) 98 Battery street, San Francisco**
 
@@ -204,7 +203,7 @@ C.) o
 D.) h
 
 <details>
-
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **C.) o**
 
@@ -230,7 +229,7 @@ C.) Python is
 D.) Python is cool
 
 <details>
-
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **A.) Python**
 
@@ -257,7 +256,7 @@ C.) Python is
 D.) is cool
 
 <details>
-
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **B.) Python**
 
@@ -284,7 +283,7 @@ C.) cool
 D.) is cool
 
 <details>
-
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **D.) is cool**
 
@@ -313,7 +312,7 @@ D.) si
 E.) is
 
 <details>
-
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **E.) is**
 
@@ -338,7 +337,7 @@ C.) o
 D.) Nothing
 
 <details>
-
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
 **C.) o**
 
