@@ -1,5 +1,8 @@
 # 0x08. Python - More Classes and Objects
 
+__init__
+
+
 # Resources
 
 <p><strong>Read or watch</strong>:</p>
@@ -44,6 +47,5 @@
 <li>How to use the <code>getattr</code> function</li>
 </ul>
 
-__init__
 
 
