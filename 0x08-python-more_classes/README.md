@@ -108,12 +108,52 @@ C.) Instance method that returns the dictionary representation of an instance
 <details>
 <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
-**B.) Instance method that returns an “official” string representation of an instance
-**
+**B.) Instance method that returns an “official” string representation of an instance**
 
 </details>
 
 ---
+
+<p>4.) What is <code>__del__</code>?</p>
+
+A.) Instance method that removes the last character of an instance
+
+
+B.) Instance method that prints the memory address of an instance
+
+
+C.) Instance method called when an instance is deleted
+
+<details>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
+
+**C.) Instance method called when an instance is deleted**
+
+</details>
+
+---
+
+<p>5.) What is <code>__doc__</code>?</p>
+<ol>
+
+<li>The string documentation of an object (based on docstring)</li>
+
+
+<li>Prints the documentation of an object</li>
+
+
+<li>Creates man file</li>
+
+<details>
+<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
+
+**<li>The string documentation of an object (based on docstring)</li>**
+</ol>
+
+</details>
+
+---
+
 
 </details>
 
