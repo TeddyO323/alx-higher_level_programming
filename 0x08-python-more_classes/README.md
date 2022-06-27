@@ -15,6 +15,7 @@
 <li><a href="https://shipit.dev/posts/python-str-vs-repr.html" title="str vs repr" target="_blank">str vs repr</a> </li>
 </ul>
 
+
 # Learning Objectives
 
 <ul>
@@ -134,26 +135,302 @@ C.) Instance method called when an instance is deleted
 ---
 
 <p>5.) What is <code>__doc__</code>?</p>
-<ol class = "A">
-
-<li>The string documentation of an object (based on docstring)</li>
 
 
-Prints the documentation of an object
+A.) The string documentation of an object (based on docstring)
 
 
-Creates man file
+B.) Prints the documentation of an object
+
+
+C.) Creates man file
 
 <details>
 <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
 
-**The string documentation of an object (based on docstring)**
+**A.) The string documentation of an object (based on docstring)**
 
 
 </details>
 
 ---
 
+6.) What do these lines print?
+
+<pre><code>class User:
+  id = 1
+
+print(User.id)</code></pre> 
+
+A.) None
+
+
+B.) 1
+
+
+C.) 89
+
+
+D.) 98
+
+<details>
+  <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
+  
+  **B.) 1**
+  
+  </details>
+  
+  ---
+
+**7.) What do these lines print**
+
+<Pre><code>class User:
+  id = 1
+
+u = User()
+print(u.id)
+</code></Pre> 
+
+
+A.) None
+
+
+B.) 1
+
+
+C.) 89
+
+
+D.) 98
+
+<details>
+  <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
+  
+  **B.) 1**
+  
+  </details>
+  
+  ---
+
+**8.) What do these lines print?**
+
+<pre><code>class User:
+  id = 1
+
+u = User()
+u.id = 89
+print(u.id)</code></pre>
+
+
+
+A.) None
+
+
+B.) 1
+
+
+C.) 89
+
+
+D.) 98
+
+<details>
+  <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
+  
+  **C.) 89
+  **
+  
+  </details>
+  
+  ---
+
+
+**9.) What do these lines print?**
+
+<pre><code>class User:
+  id = 1
+
+User.id = 98
+u = User()
+print(u.id)
+</code></pre>
+
+
+
+A.) None
+
+
+B.) 1
+
+
+C.) 89
+
+
+D.) 98
+
+<details>
+  <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
+  
+  **D.) 98**
+  
+  </details>
+  
+  ---
+
+**10.) What do these lines print?**
+<pre><code>class User:
+  id = 1
+
+u = User()
+User.id = 98
+print(u.id)
+</code></pre>
+
+A.) None
+
+
+B.) 1
+
+
+C.) 89
+
+
+D.) 98
+<details>
+  <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
+  
+  **D.) 98**
+  
+  </details>
+  
+  ---
+
+
+**11.) What do these lines print?**
+<pre><code>
+  class User:
+      id = 1
+  
+  User.id = 98
+  u = User()
+  u.id = 89
+  print(u.id)
+</code></pre>
+
+
+A.) None
+
+
+B.) 1
+
+
+C.) 89
+
+
+D.) 98
+
+<details>
+  <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
+  
+  **C.) 89**
+  
+  </details>
+  
+  ---
+
+**12.) What do these lines print?**
+<pre><code>class User:
+  id = 1
+
+User.id = 98
+u = User()
+u.id = 89
+print(User.id)
+</code></pre>
+
+
+
+A.) None
+
+
+B.) 1
+
+
+C.) 89
+
+
+D.) 98
+
+<details>
+  <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
+  
+  **D.) 98**
+  
+  </details>
+  
+  ---
+
+**13.) What do these lines print?**
+<pre><code>class User:
+  id = 1
+
+u = User()
+u.id = 89
+User.id = 98
+print(User.id)
+</code></pre>
+
+
+A.) None
+
+
+B.) 1
+
+
+C.) 89
+
+
+D.) 98
+
+<details>
+  <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
+  
+  **D.) 98**
+  
+  </details>
+  
+  ---
+
+**14.) What do these lines print?**
+<pre><code>class User:
+  id = 1
+
+u = User()
+u.id = 89
+User.id = 98
+print(u.id)</code></pre>
+
+
+
+A.) None
+
+
+B.) 1
+
+
+C.) 89
+
+
+D.) 98
+
+<details>
+  <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
+  
+  **C.) 89**
+  
+  </details>
+  
+  ---
 
 </details>
 
