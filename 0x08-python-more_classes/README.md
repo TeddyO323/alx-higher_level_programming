@@ -71,6 +71,7 @@ D.) The instance method called when a class is called for the first time
 **C.) The instance method called when a new object is created**
 
 </details>
+</details>
 
 ---
 
