@@ -1329,7 +1329,7 @@ Write a program that solves the N queens problem.</p>
 <li>You are only allowed to import the <code>sys</code> module</li>
 </ul>
 
-<p>Read: <a href="/rltoken/dAQmi8RxMnLH-iHBzkz-lw" title="Queen" target="_blank">Queen</a>, <a href="/rltoken/TGXZXdY2Awg8m4mSjlrjjA" title="Backtracking" target="_blank">Backtracking</a></p>
+<p>Read: <a href="https://en.wikipedia.org/wiki/Queen_%28chess%29" title="king" target="_blank">Queen</a>, <a href="https://en.wikipedia.org/wiki/Backtracking" title="Backtracking" target="_blank">Backtracking</a></p>
 
 <pre><code>julien@ubuntu:~/0x08. N Queens$ ./101-nqueens.py 4
 [[0, 1], [1, 3], [2, 0], [3, 2]]
