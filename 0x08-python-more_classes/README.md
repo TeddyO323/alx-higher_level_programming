@@ -44,9 +44,7 @@
 <li>How to use the <code>getattr</code> function</li>
 </ul>
 
-
-
-1.) What is <code>__init__</code> ?
+<code>__init__</code> ?
 
 A.) A class attribute
 
