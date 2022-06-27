@@ -1,5 +1,7 @@
 # 0x08. Python - More Classes and Objects
 
+
+
 # Resources
 
 <p><strong>Read or watch</strong>:</p>
@@ -42,36 +44,11 @@
 <li>What is and what does contain <code>__dict__</code> of a class and of an instance of a class</li>
 <li>How does Python find the attributes of an object or class</li>
 <li>How to use the <code>getattr</code> function</li>
+
 </ul>
-
----
-
-<details>
-<summary><strong>Show Quiz/Hide Quiz</strong></summary><br>
 
 # QUIZ
 
-1.) What is <code>__init__</code>?
+ <p>What is <code>__init__</code>? </p>
 
-A.) A class attribute
-
-
-B.) A class method
-
-
-C.) The instance method called when a new object is created
-
-
-D.) The instance method called when a class is called for the first time
-
-
-<details>
-<summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
-
-**C.) The instance method called when a new object is created**
-
-</details>
-</details>
-
----
 
