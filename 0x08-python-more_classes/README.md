@@ -1301,7 +1301,7 @@ guillaume@ubuntu:~/0x08$
 # 10. N queens
     
   <p><img src="http://www.crestbook.com/files/Judit-photo1_602x433.jpg"/><br />
-<small>Chess grandmaster <a href="/rltoken/bsRwbt64OvYjWaClriv0jg" title="Judit Polgár" target="_blank">Judit Polgár</a>, the strongest female chess player of all time</small><br />
+<small>Chess grandmaster <a href="https://en.wikipedia.org/wiki/Judit_Polg%C3%A1r" title="Judit Polgár" target="_blank">Judit Polgár</a>, the strongest female chess player of all time</small><br />
 <br /></p>
 
 <p>The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard.
@@ -1329,7 +1329,7 @@ Write a program that solves the N queens problem.</p>
 <li>You are only allowed to import the <code>sys</code> module</li>
 </ul>
 
-<p>Read: <a href="https://en.wikipedia.org/wiki/Queen_%28chess%29" title="king" target="_blank">Queen</a>, <a href="https://en.wikipedia.org/wiki/Backtracking" title="Backtracking" target="_blank">Backtracking</a></p>
+<p>Read: <a href="https://en.wikipedia.org/wiki/Queen_%28chess%29" title="Queen" target="_blank">Queen</a>, <a href="https://en.wikipedia.org/wiki/Backtracking" title="Backtracking" target="_blank">Backtracking</a></p>
 
 <pre><code>julien@ubuntu:~/0x08. N Queens$ ./101-nqueens.py 4
 [[0, 1], [1, 3], [2, 0], [3, 2]]
