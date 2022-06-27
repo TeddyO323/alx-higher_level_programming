@@ -88,7 +88,7 @@ Namespaces are one honking great idea -- let&#39;s do more of those!
 
 # QUIZ
 
-<code> **1.) Who created Python?**
+ **1.) Who created Python?**
 
 
 A.) Julien Barbier
@@ -342,7 +342,8 @@ D.) Nothing
 
 **C.) o**
 
-</details></code>
+</details>
+</details>
 
 ---
 
