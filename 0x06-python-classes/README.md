@@ -1,3 +1,4 @@
+
 ## 0x06. Python - Classes and Objects
 
 <div data-react-class="tags/Tags" data-react-props="{Python&quot;OOP&quot;}]}" data-react-cache-id="tags/Tags-0"></div>
@@ -55,6 +56,9 @@ The biggest and most important takeaway of this project is: experiment by yourse
 
 ---
 
+<details>
+<summary><strong>Show Quiz/Hide Quiz</strong></summary><br>
+
 # QUIZ
 
 
@@ -86,7 +90,7 @@ D.) A method
 E.) An instance
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong>Show Answer/Hide Answer</strong></summary><br>
 
 **A.) A class**
 
@@ -125,7 +129,7 @@ E.) A private class attribute
 F.) A protected class attribute
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong>Show Answer/Hide Answer</strong></summary><br>
 
 **B.) A public class attribute**
 
@@ -165,7 +169,7 @@ E.) A private class attribute
 F.) A private instance attribute
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong>Show Answer/Hide Answer</strong></summary><br>
 
 **E.) A private class attribute**
 
@@ -204,7 +208,7 @@ E.) A private class attribute
 F.) A private instance attribute
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong>Show Answer/Hide Answer</strong></summary><br>
 
 **B.) A public instance attribute**
 
@@ -240,7 +244,7 @@ C.) False
 D.) True
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong>Show Answer/Hide Answer</strong></summary><br>
 
 **D.) True**
 
@@ -276,7 +280,7 @@ C.) John
 D.) no name
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong>Show Answer/Hide Answer</strong></summary><br>
 
 **C.) John**
 
@@ -312,11 +316,13 @@ C.) John
 D.) no name
 
 <details>
-<summary><strong>Show Answer</strong></summary><br>
+<summary><strong>Show Answer/Hide Answer</strong></summary><br>
 
 **D.) no name**
 
 </details>
+</details>
+
 
 ---
 
