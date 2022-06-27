@@ -47,6 +47,6 @@
 
 </ul>
 
-    <p>What is <code>__init__</code>? </p>
+  <p>What is <code>__init__</code>? </p>
 
 
