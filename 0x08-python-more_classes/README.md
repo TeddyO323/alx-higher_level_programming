@@ -51,7 +51,7 @@
 
 # QUIZ
 
-1.) What is __init__?
+1.) What is <code>_init_</code>?
 
 A.) A class attribute
 
