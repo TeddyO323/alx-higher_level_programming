@@ -277,6 +277,8 @@ D.) 2 4 6 8
 ---
     
 
+<details>
+<summary><strong>Show Tasks/Hide Taks</strong></summary><br>
 
 
 # TASKS
@@ -1049,5 +1051,6 @@ guillaume@ubuntu:~/0x01$
             <li>File: <code>102-magic_calculation.py</code></li>
         </ul>
       </div>
+</details>
 
 
