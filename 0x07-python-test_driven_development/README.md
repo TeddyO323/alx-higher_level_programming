@@ -774,7 +774,9 @@ julien@ubuntu:~/0x07. Pyhton Strings$
         </ul>
       </div>
 
-<em>THE END</em>      
+<em>THE END</em>
+
+</details>
 
 
 
