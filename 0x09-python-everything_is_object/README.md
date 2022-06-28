@@ -592,4 +592,8 @@ guillaume@ubuntu:/python3$
 
   </div>
 
+  <em>THE END</em>
+
+  </details>
+
  
