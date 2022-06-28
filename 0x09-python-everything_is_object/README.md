@@ -76,4 +76,520 @@ The biggest mandatory task is the blog post and it will count for 50% of the tot
 --- 
 ---
 
+<details>
+<summary><strong>Show Tasks/Hide Tasks</strong></summary><br>
+
 # TASKS
+
+# 0. Who am I?
+   
+<p>What function would you use to print the type of an object?</p>
+
+<p>Write the name of the function in the file, without <code>()</code>.</p>
+
+  </div>
+
+# 1. Where are you?
+   
+<p>How do you get the variable identifier (which is the memory address in the CPython implementation)?</p>
+
+<p>Write the name of the function in the file, without <code>()</code>.</p>
+
+  </div>
+
+# 2. Right count
+   
+<p>In the following code, do <code>a</code> and <code>b</code> point to the same object?
+Answer with <code>Yes</code> or <code>No</code>.</p>
+
+<pre><code>&gt;&gt;&gt; a = 89
+&gt;&gt;&gt; b = 100
+</code></pre>
+
+  </div>
+
+# 3. Right count =
+   
+<p>In the following code, do <code>a</code> and <code>b</code> point to the same object?
+Answer with <code>Yes</code> or <code>No</code>.</p>
+
+<pre><code>&gt;&gt;&gt; a = 89
+&gt;&gt;&gt; b = 89
+</code></pre>
+
+  </div>
+
+# 4. Right count =
+   
+<p>In the following code, do <code>a</code> and <code>b</code> point to the same object?
+Answer with <code>Yes</code> or <code>No</code>.</p>
+
+<pre><code>&gt;&gt;&gt; a = 89
+&gt;&gt;&gt; b = a
+</code></pre>
+
+  </div>
+
+# 5. Right count =+
+   
+<p>In the following code, do <code>a</code> and <code>b</code> point to the same object?
+Answer with <code>Yes</code> or <code>No</code>.</p>
+
+<pre><code>&gt;&gt;&gt; a = 89
+&gt;&gt;&gt; b = a + 1
+</code></pre>
+
+  </div>
+
+# 6. Is equal
+   
+<p>What do these 3 lines print?</p>
+
+<pre><code>&gt;&gt;&gt; s1 = &quot;Best School&quot;
+&gt;&gt;&gt; s2 = s1
+&gt;&gt;&gt; print(s1 == s2)
+</code></pre>
+
+  </div>
+
+# 7. Is the same
+    
+<p>What do these 3 lines print?</p>
+
+<pre><code>&gt;&gt;&gt; s1 = &quot;Best&quot;
+&gt;&gt;&gt; s2 = s1
+&gt;&gt;&gt; print(s1 is s2)
+</code></pre>
+
+  </div>
+
+# 8. Is really equal
+
+<p>What do these 3 lines print?</p>
+
+<pre><code>&gt;&gt;&gt; s1 = &quot;Best School&quot;
+&gt;&gt;&gt; s2 = &quot;Best School&quot;
+&gt;&gt;&gt; print(s1 == s2)
+</code></pre>
+
+  </div>
+
+
+#  9. Is really the same
+   
+<p>What do these 3 lines print?</p>
+
+<pre><code>&gt;&gt;&gt; s1 = &quot;Best School&quot;
+&gt;&gt;&gt; s2 = &quot;Best School&quot;
+&gt;&gt;&gt; print(s1 is s2)
+</code></pre>
+
+  </div>
+
+
+# 10. And with a list, is it equal
+   
+<p>What do these 3 lines print?</p>
+
+<pre><code>&gt;&gt;&gt; l1 = [1, 2, 3]
+&gt;&gt;&gt; l2 = [1, 2, 3] 
+&gt;&gt;&gt; print(l1 == l2)
+</code></pre>
+
+  </div>
+
+
+# 11. And with a list, is it the same
+   
+<p>What do these 3 lines print?</p>
+
+<pre><code>&gt;&gt;&gt; l1 = [1, 2, 3]
+&gt;&gt;&gt; l2 = [1, 2, 3] 
+&gt;&gt;&gt; print(l1 is l2)
+</code></pre>
+
+  </div>
+
+# 12. And with a list, is it really equal
+   
+<p>What do these 3 lines print?</p>
+
+<pre><code>&gt;&gt;&gt; l1 = [1, 2, 3]
+&gt;&gt;&gt; l2 = l1
+&gt;&gt;&gt; print(l1 == l2)
+</code></pre>
+
+  </div>
+
+
+# 13. And with a list, is it really the same
+    
+<p>What do these 3 lines print?</p>
+
+<pre><code>&gt;&gt;&gt; l1 = [1, 2, 3]
+&gt;&gt;&gt; l2 = l1
+&gt;&gt;&gt; print(l1 is l2)
+</code></pre>
+
+  </div>
+
+# 14. List append
+   
+    <p>What does this script print?</p>
+
+<pre><code>l1 = [1, 2, 3]
+l2 = l1
+l1.append(4)
+print(l2)
+</code></pre>
+
+  </div>
+
+# 15. List add
+    
+<p>What does this script print?</p>
+
+<pre><code>l1 = [1, 2, 3]
+l2 = l1
+l1 = l1 + [4]
+print(l2)
+</code></pre>
+
+  </div>
+
+
+# 16. Integer incrementation
+    
+ <p>What does this script print?</p>
+
+<pre><code>def increment(n):
+    n += 1
+
+a = 1
+increment(a)
+print(a)
+</code></pre>
+
+  </div>
+
+# 17. List incrementation
+   
+<p>What does this script print?</p>
+
+<pre><code>def increment(n):
+    n.append(4)
+
+l = [1, 2, 3]
+increment(l)
+print(l)
+</code></pre>
+
+  </div>
+
+
+# 18. List assignation
+   
+<p>What does this script print?</p>
+
+<pre><code>def assign_value(n, v):
+    n = v
+
+l1 = [1, 2, 3]
+l2 = [4, 5, 6]
+assign_value(l1, l2)
+print(l1)
+</code></pre>
+
+  </div>
+
+
+# 19. Copy a list object
+    
+<p>Write a function <code>def copy_list(l):</code> that returns a <strong>copy</strong> of a list.</p>
+
+<ul>
+<li>The input list can contain any type of objects</li>
+<li>Your file should be maximum 3-line long (no documentation needed)</li>
+<li>You are not allowed to import any module</li>
+</ul>
+
+<pre><code>guillaume@ubuntu:~/0x09$ cat 19-main.py
+#!/usr/bin/python3
+copy_list = __import__(&#39;19-copy_list&#39;).copy_list
+
+my_list = [1, 2, 3]
+print(my_list)
+
+new_list = copy_list(my_list)
+
+print(my_list)
+print(new_list)
+
+print(new_list == my_list)
+print(new_list is my_list)
+
+guillaume@ubuntu:~/0x09$ ./19-main.py
+[1, 2, 3]
+[1, 2, 3]
+[1, 2, 3]
+True
+False
+guillaume@ubuntu:~/0x09$ wc -l 19-copy_list.py 
+3 19-copy_list.py
+guillaume@ubuntu:~/0x09$ 
+</code></pre>
+
+<p><strong>No test cases needed</strong></p>
+
+  </div>
+
+# 20. Tuple or not?
+    
+<pre><code>a = ()
+</code></pre>
+
+<p>Is <code>a</code> a tuple? Answer with <code>Yes</code> or <code>No</code>.</p>
+
+  </div>
+
+# 21. Tuple or not?
+  
+<pre><code>a = (1, 2)
+</code></pre>
+
+<p>Is <code>a</code> a tuple? Answer with <code>Yes</code> or <code>No</code>.</p>
+
+  </div>
+
+
+# 22. Tuple or not?
+    
+<pre><code>a = (1)
+</code></pre>
+
+<p>Is <code>a</code> a tuple? Answer with <code>Yes</code> or <code>No</code>.</p>
+
+  </div>
+
+# 23. Tuple or not?
+    
+<pre><code>a = (1, )
+</code></pre>
+
+<p>Is <code>a</code> a tuple? Answer with <code>Yes</code> or <code>No</code>.</p>
+
+  </div>
+
+# 24. Who I am?
+    
+<p>What does this script print?</p>
+
+<pre><code>a = (1)
+b = (1)
+a is b
+</code></pre>
+
+  </div>
+
+# 25. Tuple or not
+    
+<p>What does this script print?</p>
+
+<pre><code>a = (1, 2)
+b = (1, 2)
+a is b
+</code></pre>
+
+  </div>
+
+# 26. Empty is not empty
+    
+<p>What does this script print?</p>
+
+<pre><code>a = ()
+b = ()
+a is b
+</code></pre>
+
+  </div>
+
+# 27. Still the same?
+    
+<pre><code>&gt;&gt;&gt; id(a)
+139926795932424
+&gt;&gt;&gt; a
+[1, 2, 3, 4]
+&gt;&gt;&gt; a = a + [5]
+&gt;&gt;&gt; id(a)
+</code></pre>
+
+<p>Will the last line of this script print <code>139926795932424</code>? Answer with <code>Yes</code> or <code>No</code>.</p>
+
+  </div>
+
+# 28. Same or not?
+    
+<pre><code>&gt;&gt;&gt; a
+[1, 2, 3]
+&gt;&gt;&gt; id (a)
+139926795932424
+&gt;&gt;&gt; a += [4]
+&gt;&gt;&gt; id(a)
+</code></pre>
+
+<p>Will the last line of this script print <code>139926795932424</code>? Answer with <code>Yes</code> or <code>No</code>.</p>
+
+  </div>
+
+
+# 29. #pythonic
+   
+<p>Write a function <code>magic_string()</code> that returns a string &ldquo;BestSchool&rdquo; n times the number of the iteration (see code):</p>
+
+<ul>
+<li>Format: see example</li>
+<li>Your file should be maximum 4-line long (no documentation needed)</li>
+<li>You are not allowed to import any module</li>
+</ul>
+
+<pre><code>guillaume@ubuntu:~/0x09$ cat 100-main.py
+#!/usr/bin/python3
+magic_string = __import__(&#39;100-magic_string&#39;).magic_string
+
+for i in range(10):
+    print(magic_string())
+
+guillaume@ubuntu:~/0x09$ ./100-main.py | cat -e
+BestSchool$
+BestSchool, BestSchool$
+BestSchool, BestSchool, BestSchool$
+BestSchool, BestSchool, BestSchool, BestSchool$
+BestSchool, BestSchool, BestSchool, BestSchool, BestSchool$
+BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool$
+BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool$
+BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool$
+BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool$
+BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool, BestSchool$
+guillaume@ubuntu:~/0x09$ wc -l 100-magic_string.py 
+4 100-magic_string.py
+guillaume@ubuntu:~/0x09$ 
+</code></pre>
+
+<p><strong>No test cases needed</strong></p>
+
+  </div>
+
+# 30. Low memory cost
+   
+<p>Write a class <code>LockedClass</code> with no class or object attribute, that prevents the user from dynamically creating new instance attributes, except if the new instance attribute is called <code>first_name</code>.</p>
+
+<ul>
+<li>You are not allowed to import any module</li>
+</ul>
+
+<pre><code>guillaume@ubuntu:~/0x09$ cat 101-main.py
+#!/usr/bin/python3
+LockedClass = __import__(&#39;101-locked_class&#39;).LockedClass
+
+lc = LockedClass()
+lc.first_name = &quot;John&quot;
+try:
+    lc.last_name = &quot;Snow&quot;
+except Exception as e:
+    print(&quot;[{}] {}&quot;.format(e.__class__.__name__, e))
+
+guillaume@ubuntu:~/0x09$ ./101-main.py
+[AttributeError] &#39;LockedClass&#39; object has no attribute &#39;last_name&#39;
+guillaume@ubuntu:~/0x09$ 
+</code></pre>
+
+<p><strong>No test cases needed</strong></p>
+
+  </div>
+
+# 31. int 1/3
+    
+<pre><code>julien@ubuntu:/python3$ cat int.py 
+a = 1
+b = 1
+julien@ubuntu:/python3$ 
+</code></pre>
+
+<p>Assuming we are using a CPython implementation of Python3 with default options/configuration:</p>
+
+<ul>
+<li>How many int objects are created by the execution of the first line of the script? (<code>103-line1.txt</code>)</li>
+<li>How many int objects are created by the execution of the second line of the script (<code>103-line2.txt</code>)</li>
+</ul>
+
+  </div>
+
+# 32. int 2/3
+   
+<pre><code>julien@ubuntu:/python3$ cat int.py 
+a = 1024
+b = 1024
+del a
+del b
+c = 1024
+julien@ubuntu:/python3$ 
+</code></pre>
+
+<p>Assuming we are using a CPython implementation of Python3 with default options/configuration:</p>
+
+<ul>
+<li>How many int objects are created by the execution of the first line of the script? (<code>104-line1.txt</code>)</li>
+<li>How many int objects are created by the execution of the second line of the script (<code>104-line2.txt</code>)</li>
+<li>After the execution of line 3, is the int object pointed by <code>a</code> deleted? Answer with <code>Yes</code> or <code>No</code> (<code>104-line3.txt</code>)</li>
+<li>After the execution of line 4, is the int object pointed by <code>b</code> deleted? Answer with <code>Yes</code> or <code>No</code> (<code>104-line4.txt</code>)</li>
+<li>How many int objects are created by the execution of the last line of the script (<code>104-line5.txt</code>)</li>
+</ul>
+
+  </div>
+
+# 33. int 3/3
+   
+<pre><code>julien@twix:/tmp/so$ cat int.py 
+print(&quot;I&quot;)
+print(&quot;Love&quot;)
+print(&quot;Python&quot;)
+julien@ubuntu:/tmp/so$ 
+</code></pre>
+
+<p>Assuming we are using a CPython implementation of Python3 with default options/configuration:</p>
+
+<ul>
+<li>Before the execution of line 2 (<code>print(&quot;Love&quot;)</code>), how many int objects have been created and are still in memory? (<code>105-line1.txt</code>)</li>
+<li>Why? (optional blog post :))</li>
+</ul>
+
+<p>Hint: <code>NSMALLPOSINTS</code>, <code>NSMALLNEGINTS</code></p>
+
+<p><img src="./70f9ea0e969dfcc407a7427aba4786d87a920494.gif" alt="" style="" /></p>
+
+  </div>
+
+# 34. Clear strings
+    
+<pre><code>guillaume@ubuntu:/python3$ cat string.py 
+a = &quot;SCHL&quot;
+b = &quot;SCHL&quot;
+del a
+del b
+c = &quot;SCHL&quot;
+guillaume@ubuntu:/python3$ 
+</code></pre>
+
+<p>Assuming we are using a CPython implementation of Python3 with default options/configuration (For answers with numbers use integers, don&rsquo;t spell out the word):</p>
+
+<ul>
+<li>How many string objects are created by the execution of the first line of the script? (<code>106-line1.txt</code>)</li>
+<li>How many string objects are created by the execution of the second line of the script (<code>106-line2.txt</code>)</li>
+<li>After the execution of line 3, is the string object pointed by <code>a</code> deleted? Answer with <code>Yes</code> or <code>No</code> (<code>106-line3.txt</code>)</li>
+<li>After the execution of line 4, is the string object pointed by <code>b</code> deleted? Answer with <code>Yes</code> or <code>No</code> (<code>106-line4.txt</code>)</li>
+<li>How many string objects are created by the execution of the last line of the script (<code>106-line5.txt</code>)</li>
+</ul>
+
+  </div>
+
+ 
