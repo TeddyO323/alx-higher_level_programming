@@ -89,13 +89,20 @@ The biggest mandatory task is the blog post and it will count for 50% of the tot
 
   </div>
 
+[(answer)](./0-answer.txt)
+
+
 # 1. Where are you?
+
    
 <p>How do you get the variable identifier (which is the memory address in the CPython implementation)?</p>
 
 <p>Write the name of the function in the file, without <code>()</code>.</p>
 
   </div>
+
+[(answer)](./1-answer.txt)
+
 
 # 2. Right count
    
@@ -108,6 +115,9 @@ Answer with <code>Yes</code> or <code>No</code>.</p>
 
   </div>
 
+[(answer)](./2-answer.txt)
+
+
 # 3. Right count =
    
 <p>In the following code, do <code>a</code> and <code>b</code> point to the same object?
@@ -118,6 +128,8 @@ Answer with <code>Yes</code> or <code>No</code>.</p>
 </code></pre>
 
   </div>
+
+[(answer)](./3-answer.txt)
 
 # 4. Right count =
    
@@ -130,8 +142,10 @@ Answer with <code>Yes</code> or <code>No</code>.</p>
 
   </div>
 
+[(answer)](./4-answer.txt)
+
 # 5. Right count =+
-   
+
 <p>In the following code, do <code>a</code> and <code>b</code> point to the same object?
 Answer with <code>Yes</code> or <code>No</code>.</p>
 
@@ -140,6 +154,9 @@ Answer with <code>Yes</code> or <code>No</code>.</p>
 </code></pre>
 
   </div>
+
+[(answer)](./5-answer.txt)
+
 
 # 6. Is equal
    
@@ -152,6 +169,9 @@ Answer with <code>Yes</code> or <code>No</code>.</p>
 
   </div>
 
+[(answer)](./6-answer.txt)
+
+
 # 7. Is the same
     
 <p>What do these 3 lines print?</p>
@@ -163,6 +183,9 @@ Answer with <code>Yes</code> or <code>No</code>.</p>
 
   </div>
 
+[(answer)](./7-answer.txt)
+
+
 # 8. Is really equal
 
 <p>What do these 3 lines print?</p>
@@ -173,6 +196,9 @@ Answer with <code>Yes</code> or <code>No</code>.</p>
 </code></pre>
 
   </div>
+
+[(answer)](./8-answer.txt)
+
 
 
 #  9. Is really the same
@@ -186,6 +212,8 @@ Answer with <code>Yes</code> or <code>No</code>.</p>
 
   </div>
 
+[(answer)](./9-answer.txt)
+
 
 # 10. And with a list, is it equal
    
@@ -197,6 +225,8 @@ Answer with <code>Yes</code> or <code>No</code>.</p>
 </code></pre>
 
   </div>
+
+[(answer)](./10-answer.txt)
 
 
 # 11. And with a list, is it the same
@@ -210,6 +240,8 @@ Answer with <code>Yes</code> or <code>No</code>.</p>
 
   </div>
 
+[(answer)](./11-answer.txt)
+
 # 12. And with a list, is it really equal
    
 <p>What do these 3 lines print?</p>
@@ -220,6 +252,9 @@ Answer with <code>Yes</code> or <code>No</code>.</p>
 </code></pre>
 
   </div>
+  
+[(answer)](./12-answer.txt)
+
 
 
 # 13. And with a list, is it really the same
@@ -233,6 +268,9 @@ Answer with <code>Yes</code> or <code>No</code>.</p>
 
   </div>
 
+[(answer)](./13-answer.txt)
+
+
 # 14. List append
    
     <p>What does this script print?</p>
@@ -245,6 +283,9 @@ print(l2)
 
   </div>
 
+  [(answer)](./14-answer.txt)
+
+
 # 15. List add
     
 <p>What does this script print?</p>
@@ -256,6 +297,9 @@ print(l2)
 </code></pre>
 
   </div>
+
+  [(answer)](./15-answer.txt)
+
 
 
 # 16. Integer incrementation
@@ -272,6 +316,9 @@ print(a)
 
   </div>
 
+[(answer)](./16-answer.txt)
+
+
 # 17. List incrementation
    
 <p>What does this script print?</p>
@@ -285,6 +332,9 @@ print(l)
 </code></pre>
 
   </div>
+
+[(answer)](./17-answer.txt)
+
 
 
 # 18. List assignation
@@ -301,6 +351,9 @@ print(l1)
 </code></pre>
 
   </div>
+
+[(answer)](./18-answer.txt)
+
 
 
 # 19. Copy a list object
@@ -343,6 +396,9 @@ guillaume@ubuntu:~/0x09$
 
   </div>
 
+[(answer)](./19-answer.txt)
+
+
 # 20. Tuple or not?
     
 <pre><code>a = ()
@@ -352,6 +408,9 @@ guillaume@ubuntu:~/0x09$
 
   </div>
 
+[(answer)](./20-answer.txt)
+
+
 # 21. Tuple or not?
   
 <pre><code>a = (1, 2)
@@ -360,6 +419,9 @@ guillaume@ubuntu:~/0x09$
 <p>Is <code>a</code> a tuple? Answer with <code>Yes</code> or <code>No</code>.</p>
 
   </div>
+
+[(answer)](./21-answer.txt)
+
 
 
 # 22. Tuple or not?
@@ -371,6 +433,9 @@ guillaume@ubuntu:~/0x09$
 
   </div>
 
+[(answer)](./22-answer.txt)
+
+
 # 23. Tuple or not?
     
 <pre><code>a = (1, )
@@ -379,6 +444,9 @@ guillaume@ubuntu:~/0x09$
 <p>Is <code>a</code> a tuple? Answer with <code>Yes</code> or <code>No</code>.</p>
 
   </div>
+
+[(answer)](./23-answer.txt)
+
 
 # 24. Who I am?
     
@@ -391,6 +459,9 @@ a is b
 
   </div>
 
+[(answer)](./24-answer.txt)
+
+
 # 25. Tuple or not
     
 <p>What does this script print?</p>
@@ -401,6 +472,9 @@ a is b
 </code></pre>
 
   </div>
+
+[(answer)](./25-answer.txt)
+
 
 # 26. Empty is not empty
     
@@ -413,6 +487,9 @@ a is b
 
   </div>
 
+[(answer)](./26-answer.txt)
+
+
 # 27. Still the same?
     
 <pre><code>&gt;&gt;&gt; id(a)
@@ -422,6 +499,9 @@ a is b
 &gt;&gt;&gt; a = a + [5]
 &gt;&gt;&gt; id(a)
 </code></pre>
+
+[(answer)](./27-answer.txt)
+
 
 <p>Will the last line of this script print <code>139926795932424</code>? Answer with <code>Yes</code> or <code>No</code>.</p>
 
@@ -440,6 +520,9 @@ a is b
 <p>Will the last line of this script print <code>139926795932424</code>? Answer with <code>Yes</code> or <code>No</code>.</p>
 
   </div>
+
+[(answer)](./28-answer.txt)
+
 
 
 # 29. #pythonic
@@ -479,6 +562,9 @@ guillaume@ubuntu:~/0x09$
 
   </div>
 
+[(answer)](./100-magic_string.py)
+
+
 # 30. Low memory cost
    
 <p>Write a class <code>LockedClass</code> with no class or object attribute, that prevents the user from dynamically creating new instance attributes, except if the new instance attribute is called <code>first_name</code>.</p>
@@ -507,6 +593,8 @@ guillaume@ubuntu:~/0x09$
 
   </div>
 
+[(answer)](./101-locked_class.py)
+
 # 31. int 1/3
     
 <pre><code>julien@ubuntu:/python3$ cat int.py 
@@ -523,6 +611,8 @@ julien@ubuntu:/python3$
 </ul>
 
   </div>
+
+  [(answer)](./103-line1.txt) and [(answer)](./103-line2.txt)
 
 # 32. int 2/3
    
@@ -547,6 +637,8 @@ julien@ubuntu:/python3$
 
   </div>
 
+[(answer)](./104-line1.txt), [(answer)](./104-line2.txt), [(answer)](./104-line3.txt), [(answer)](./104-line4.txt) and [(answer)](./104-line5.txt)
+
 # 33. int 3/3
    
 <pre><code>julien@twix:/tmp/so$ cat int.py 
@@ -568,6 +660,8 @@ julien@ubuntu:/tmp/so$
 <p><img src="./70f9ea0e969dfcc407a7427aba4786d87a920494.gif" alt="" style="" /></p>
 
   </div>
+
+  [(answer)](./105-line1.txt)
 
 # 34. Clear strings
     
@@ -591,6 +685,8 @@ guillaume@ubuntu:/python3$
 </ul>
 
   </div>
+
+  [(answer)](./106-line1.txt), [(answer)](./106-line2.txt), [(answer)](./106-line3.txt), [(answer)](./106-line4.txt) and [(answer)](./106-line5.txt)
 
   <em>THE END</em>
 
