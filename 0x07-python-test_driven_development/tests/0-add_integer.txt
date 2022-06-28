@@ -1,0 +1,32 @@
+Test 0-add_integer.py
+---------------------
+
+>>> add_integer = __import__('0-add_integer').add_integer
+
+When 1 argument positive/negative
+-----------------------------
+>>> add_integer(20)
+118
+>>> add_integer(10)
+108
+>>> add_integer(-12)
+86
+>>> add_integer(-198)
+-100
+>>> add_integer(-12565586556656562)
+-12565586556656464
+
+When 2 arguments positives/negatives int/float
+-----------------------------------------------
+>>> add_integer(1,2)
+3
+>>> add_integer(-4,18)
+14
+>>> add_integer(-4.5, -6)
+-10
+>>> add_integer(21435346345645, -9)
+21435346345636
+>>> add_integer(-35445, -345421)
+-380866
+>>> add_integer(354.7263, 34.6)
+388

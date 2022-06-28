@@ -235,6 +235,10 @@ G.) not a list argument (ex: passing a dictionary to the method)
 # TASKS
 
 # 0. Integers addition
+
+[(answer)](./0-add_integer.py)
+
+
     
 <p>Write a function that adds 2 integers.</p>
 
@@ -292,6 +296,8 @@ guillaume@ubuntu:~/0x07$
       </div>
 
 # 1. Divide a matrix
+[(answer)](./2-matrix_divided.py)
+
     
 <p>Write a function that divides all elements of a matrix.</p>
 
@@ -339,6 +345,8 @@ guillaume@ubuntu:~/0x07$
         </ul>
 
 # 2. Say my name
+[(answer)](./3-say_my_name.py)
+
     
 <p>Write a function that prints <code>My name is &lt;first name&gt; &lt;last name&gt;</code></p>
 
@@ -385,6 +393,8 @@ guillaume@ubuntu:~/0x07$
 
 
 # 3. Print square
+[(answer)](./4-print_square.py)
+
     
 <p>Write a function that prints a square with the character <code>#</code>.</p>
 
@@ -453,6 +463,8 @@ guillaume@ubuntu:~/0x07$
       </div> 
       
 # 4. Text indentation
+[(answer)](./5-text_indentation.py)
+
     
 <p>Write a function that prints a text with 2 new lines after each of these characters: <code>.</code>, <code>?</code> and <code>:</code></p>
 
@@ -521,6 +533,9 @@ guillaume@ubuntu:~/0x07$
       </div>
 
 # 5. Max integer - Unittest
+
+[(answer)](./6-max_integer.py)
+
     
 <p>Since the beginning you have been creating &ldquo;Interactive tests&rdquo;. For this exercise, you will add Unittests.</p>
 
@@ -592,6 +607,8 @@ guillaume@ubuntu:~/0x07$
         </ul>
 
 # 6. Matrix multiplication
+[(answer)](./100-matrix_mul.py)
+
     
 <p>Write a function that multiplies 2 matrices:</p>
 
@@ -638,6 +655,9 @@ guillaume@ubuntu:~/0x07$
       </div>
 
 # 7. Lazy matrix multiplication
+
+[(answer)](./101-lazy_matrix_mul.py)
+
     
 <p>Write a function that multiplies 2 matrices by using the module <a href="https://numpy.org/" title="NumPy" target="_blank">NumPy</a></p>
 
@@ -672,6 +692,8 @@ guillaume@ubuntu:~/0x07$
         </ul>
 
 # 8. CPython #3: Python Strings
+[(answer)](./102-python.c)
+
     
 <p><img src="./2c4f2b92514745519f833afdf5bc5f3eaff8c6ca.gif" alt="" style="" />
 <br /></p>

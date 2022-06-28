@@ -1,0 +1,25 @@
+Test 3-say_my_name
+------------------
+>>> say_my_name = __import__('3-say_my_name').say_my_name
+
+When send the name and last name correctly
+------------------------------------------
+>>> say_my_name("James", "Bond")
+My name is James Bond
+>>> say_my_name("Mickey", "Mouse")
+My name is Mickey Mouse
+
+When missing a firstname or lastname
+------------------------------------
+>>> try:
+...     say_my_name(007, "Bond")
+... except Exception as e:
+...     print(e)
+...
+first_name must be a string
+>>> try:
+...     say_my_name("James", 007)
+... except Exception as e:
+...     print(e)
+...
+last_name must be a string
