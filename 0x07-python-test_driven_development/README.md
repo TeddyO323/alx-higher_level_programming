@@ -45,7 +45,7 @@
 ---
 
 <details>
-    <summary><strong>Show Quiz/Hide Quiz</strong></summary><br>
+  <summary><strong>Show Quiz/Hide Quiz</strong></summary><br>
 
 # QUIZ
 
@@ -66,7 +66,7 @@ B.) No
     
     **B.) No**
     
-    </details>
+  </details>
     
 ---
 
@@ -84,7 +84,7 @@ B.) No
     <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
     
     **B.) No**
-    </details>
+  </details>
     
 ---
     
@@ -107,7 +107,7 @@ B.) No
     
     **B.) No**
     
-    </details>
+  </details>
     
 ---
     
@@ -128,7 +128,7 @@ B.) No
     
     **A.) Yes**
     
-    </details>
+  </details>
 
 ---
 
@@ -140,7 +140,7 @@ B.) No
     """
     import sys
     ...
-    ></code></pre>
+    </code></pre>
 
 
 A.) Yes
@@ -153,7 +153,7 @@ B.) No
     
     **A.) Yes**
     
-    </details>
+  </details>
 
 ---
 
@@ -181,7 +181,7 @@ Docstring must be before import statements
     
     **B.) No**
     
-    </details>
+  </details>
 
 ---
 
@@ -223,8 +223,8 @@ G.) not a list argument (ex: passing a dictionary to the method)
     
     **All of them lol**
     
-    </details>
-    </details>
+  </details>
+  </details>
 
 ---
 ---
