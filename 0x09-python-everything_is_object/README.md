@@ -396,7 +396,7 @@ guillaume@ubuntu:~/0x09$
 
   </div>
 
-[(answer)](./19-answer.txt)
+[(answer)](./19-copy_list.py)
 
 
 # 20. Tuple or not?
