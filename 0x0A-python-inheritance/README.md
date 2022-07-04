@@ -123,16 +123,16 @@ D.) 2
         print(u.id)
         </code></pre>
 
-    A.) None
+A.) None
 
 
-    B.) 0
+B.) 0
         
         
-    C.) 1
+C.) 1
         
         
-    D.) 2
+D.) 2
 
 <details>
 <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
