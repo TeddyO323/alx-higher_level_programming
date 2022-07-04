@@ -1,12 +1,9 @@
 #!/usr/bin/python3
-"""Module to have a function verify instances"""
+"""
+Contains the inherits_from function
+"""
 
 
-def is_kind_of_class(obj, a_class):
-    """Evaluate kind of class
-    """
-    if isinstance(obj.__class__, a_class):
-        return True
-    if issubclass(obj.__class__, a_class):
-        return True
-    return False
+def inherits_from(obj, a_class):
+    """returns true if obj is a subclass of a_class, otherwise false"""
+    return(issubclass(type(obj), a_class) and type(obj) != a_class)
