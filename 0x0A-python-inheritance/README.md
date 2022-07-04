@@ -972,6 +972,8 @@ guillaume@ubuntu:~/0x0A$
 
   ---
 
+  <em>THE END</em>
+
 
   </details>
 
