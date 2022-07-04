@@ -427,6 +427,10 @@ C.) 1
 ---
 ---
 
+<details>
+<summary><strong>Show Tasks/Hide Tasks</strong></summary><br>
+
+
 ## TASKS
 
 ### 0. Lookup
@@ -910,6 +914,8 @@ guillaume@ubuntu:~/0x0A$
 <p><strong>No test cases needed</strong></p>
 
   </div>
+
+  </details>
 
 
 
