@@ -5,10 +5,10 @@
 <p><strong>Read or watch</strong>:</p>
 
 <ul>
-<li><a href="/rltoken/ct-bhZHBxfE-aHYQoAcscQ" title="Inheritance" target="_blank">Inheritance</a> </li>
-<li><a href="/rltoken/qq52YyYhDIbKBneA-u0PKw" title="Multiple inheritance" target="_blank">Multiple inheritance</a> </li>
-<li><a href="/rltoken/zQ6bnQUWn3e1B2-U3KaRyA" title="Inheritance in Python" target="_blank">Inheritance in Python</a> </li>
-<li><a href="/rltoken/CFBGj9h1gP3eNLnEm2Ehhg" title="Learn to Program 10 : Inheritance Magic Methods" target="_blank">Learn to Program 10 : Inheritance Magic Methods</a> </li>
+<li><a href="https://docs.python.org/3/tutorial/classes.html#inheritance" title="Inheritance" target="_blank">Inheritance</a> </li>
+<li><a href="https://docs.python.org/3/tutorial/classes.html#multiple-inheritance" title="Multiple inheritance" target="_blank">Multiple inheritance</a> </li>
+<li><a href="https://www.packt.com/inheritance-python/" title="Inheritance in Python" target="_blank">Inheritance in Python</a> </li>
+<li><a href="https://www.youtube.com/watch?v=d8kCdLCi6Lk" title="Learn to Program 10 : Inheritance Magic Methods" target="_blank">Learn to Program 10 : Inheritance Magic Methods</a> </li>
 </ul>
 
 ## Learning Objectives
