@@ -66,7 +66,7 @@ C.) 1
     
 </details>
     
-    ---
+---
 
 <p>2.) What do these lines print?</p>
 
@@ -327,6 +327,8 @@ class User(Base):
 u = User()
 print(u.id)
 
+</code></pre>
+
 A.) 89
 
 
@@ -334,9 +336,6 @@ B.) 90
 
 
 C.) 1
-
-
-</code></pre>
 
 <details>
   <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
@@ -386,7 +385,7 @@ C.) 1
   
   ---
 
-<p>What do these lines print?</p>
+<p>10.) What do these lines print?</p>
 
 <pre><code>class Base():
     &quot;&quot;&quot; My base class &quot;&quot;&quot;
