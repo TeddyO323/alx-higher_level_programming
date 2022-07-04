@@ -84,16 +84,16 @@ C.) 1
     print(b.id)
     </code></pre>
 
-    A.) None
+A.) None
 
 
-    B.) 3
+B.) 3
     
     
-    C.) 4
+C.) 4
     
     
-    D.) 2
+D.) 2
 
 <details>
 <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
@@ -123,16 +123,16 @@ C.) 1
         print(u.id)
         </code></pre>
 
-        A.) None
+    A.) None
 
 
-        B.) 0
+    B.) 0
         
         
-        C.) 1
+    C.) 1
         
         
-        D.) 2
+    D.) 2
 
 <details>
 <summary><strong><code>Show Answer/Hide Answer</code></strong></summary><br>
