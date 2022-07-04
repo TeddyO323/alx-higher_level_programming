@@ -470,6 +470,10 @@ guillaume@ubuntu:~/0x0A$
 
   </div>
 
+  [(answer)](./0-lookup.py)
+
+  ---
+
 ### 1. My list
     
 <p>Write a class <code>MyList</code> that inherits from <code>list</code>:</p>
@@ -503,6 +507,10 @@ guillaume@ubuntu:~/0x0A$
 
   </div>
 
+[(answer)](./1-my_list.py)
+
+  ---  
+
 ### 2. Exact same object
     
 <p>Write a function that returns <code>True</code> if the object is <em>exactly</em> an instance of the specified class ; otherwise <code>False</code>.</p>
@@ -532,6 +540,10 @@ guillaume@ubuntu:~/0x0A$
 <p><strong>No test cases needed</strong></p>
 
   </div>
+
+  [(answer)](./2-is_same_class.py)
+
+  ---
 
 ### 3. Same class or inherit from
     
@@ -564,6 +576,10 @@ guillaume@ubuntu:~/0x0A$
 
   </div>
 
+  [(answer)](./3-is_kind_of_class.py)
+
+  ---
+
 ### 4. Only sub class of
     
 <p>Write a function that returns <code>True</code> if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise <code>False</code>.</p>
@@ -595,6 +611,10 @@ guillaume@ubuntu:~/0x0A$
 
   </div>
 
+  [(answer)](./4-inherits_from.py)
+
+  ---
+
 ### 5. Geometry module
 
 <p>Write an empty class <code>BaseGeometry</code>.</p>
@@ -621,6 +641,10 @@ guillaume@ubuntu:~/0x0A$
 </code></pre>
 
 <p><strong>No test cases needed</strong></p>
+
+[(answer)](./5-base_geometry.py)
+
+  ---
 
 
 ### 6. Improve Geometry
@@ -651,6 +675,10 @@ guillaume@ubuntu:~/0x0A$
 <p><strong>No test cases needed</strong></p>
 
   </div>
+
+  [(answer)](./6-base_geometry.py)
+
+  ---
 
 ### 7. Integer validator
     
@@ -701,6 +729,10 @@ guillaume@ubuntu:~/0x0A$
 
   </div>
 
+  [(answer)](./7-base_geometry.py)
+
+  ---
+
 ### 8. Rectangle
     
 <p>Write a class <code>Rectangle</code> that inherits from <code>BaseGeometry</code> (<code>7-base_geometry.py</code>).</p>
@@ -745,6 +777,10 @@ guillaume@ubuntu:~/0x0A$
 
   </div>
 
+  [(answer)](./8-rectangle.py)
+
+  ---
+
 ### 9. Full rectangle
    
 <p>Write a class <code>Rectangle</code> that inherits from <code>BaseGeometry</code> (<code>7-base_geometry.py</code>).
@@ -780,6 +816,11 @@ guillaume@ubuntu:~/0x0A$
 
   </div>
 
+   [(answer)](./9-rectangle.py)
+
+  ---
+
+
 ### 10. Square #1
     
 <p>Write a class <code>Square</code> that inherits from <code>Rectangle</code> (<code>9-rectangle.py</code>):</p>
@@ -812,6 +853,10 @@ guillaume@ubuntu:~/0x0A$
 <p><strong>No test cases needed</strong></p>
 
   </div>
+
+   [(answer)](./10-square.py)
+
+  ---
 
 ### 11. Square #2
   
@@ -848,6 +893,10 @@ guillaume@ubuntu:~/0x0A$
 
   </div>
 
+   [(answer)](./11-square.py)
+
+  ---
+
 ### 12. My integer
     
 <p>Write a class <code>MyInt</code> that inherits from <code>int</code>:</p>
@@ -876,6 +925,10 @@ guillaume@ubuntu:~/0x0A$
 <p><strong>No test cases needed</strong></p>
 
   </div>
+
+   [(answer)](./100-my_int.py)
+
+  ---
 
 ### 13. Can I?
    
@@ -914,6 +967,11 @@ guillaume@ubuntu:~/0x0A$
 <p><strong>No test cases needed</strong></p>
 
   </div>
+
+  [(answer)](./101-add_attribute.py)
+
+  ---
+
 
   </details>
 
