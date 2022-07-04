@@ -1,7 +1,5 @@
 # 0x0A. Python - Inheritance
 
-<code>Python</code> <code>OOP</code> <code>Inheritance</code>
-
 
 ## Resources
 
