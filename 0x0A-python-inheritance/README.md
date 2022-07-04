@@ -70,7 +70,7 @@ C.) 1
 
 <p>2.) What do these lines print?</p>
 
-    <pre><code>class Base():
+<pre><code>class Base():
         &quot;&quot;&quot; My base class &quot;&quot;&quot;
     
         __nb_instances = 0
@@ -106,7 +106,7 @@ C.) 1
 
 <p>3.) What do these lines print?</p>
 
-        <pre><code>class Base():
+<pre><code>class Base():
             &quot;&quot;&quot; My base class &quot;&quot;&quot;
         
             __nb_instances = 0
