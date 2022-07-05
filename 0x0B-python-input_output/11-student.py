@@ -1,32 +1,49 @@
 #!/usr/bin/python3
-"""Contains the clas "Student"""
+"""
+Student Class json object
+"""
 
 
 class Student:
-    """Representation of a student"""
+
+    """
+    Represent Student Object
+    """
     def __init__(self, first_name, last_name, age):
-        """Initializes the student"""
+
+        """
+        initialization
+        Args:
+            first_name: first_name
+            last_name: last_name
+            age: age
+        """
         self.first_name = first_name
         self.last_name = last_name
         self.age = age
 
     def to_json(self, attrs=None):
-        """returns a dictionary representation of a Student instance
-        with specified attributes"""
+
+        """
+        Convert to json
+        Args:
+            attrs: attributes
+        """
+        result = {}
         if attrs is None:
             return self.__dict__
-        new_dict = {}
-        for a in attrs:
-            try:
-                new_dict[a] = self.__dict__[a]
-            except:
-                pass
-        return new_dict
+        else:
+            for s in attrs:
+                if s in self.__dict__:
+                    result[s] = self.__dict__[s]
+        return result
 
     def reload_from_json(self, json):
-        """replaces all attributes of the Student instance"""
-        for key in json:
-            try:
-                setattr(self, key, json[key])
-            except:
-                pass
+
+        """
+        Replace all attributes of instance
+        Args:
+            json: json string
+        """
+        for k, v in json.items():
+            setattr(self, k, v)
