@@ -1,33 +1,39 @@
 #!/usr/bin/python3
-"""
-stats
-"""
+"""reads stdin line by line and computes metrics"""
+
 import sys
 
-total = 0
-count = 0
-stats = [200, 301, 400, 401, 403, 404, 405, 500]
-stat_counts = [0] * 8
-
-
+file_size = 0
+status_tally = {"200": 0, "301": 0, "400": 0, "401": 0,
+                "403": 0, "404": 0, "405": 0, "500": 0}
+i = 0
 try:
     for line in sys.stdin:
-        if not line.startswith("^C"):
-            total += int(line.split(" ")[-1])
-            count += 1
-            for s in stats:
-                if s == int(line.split(" ")[-2]):
-                    stat_counts[stats.index(s)] += 1
-            if count == 10:
-                print("File size: {}".format(total), flush=True)
-                count = 1
-                for i in range(len(stats)):
-                    if stat_counts[i]:
-                        print("{}: {}".format(stats[i], stat_counts[i]), flush=True)
-except BaseException:
-    print("File size: {}".format(total), flush=True)
-    for i in range(len(stats)):
-        if stat_counts[i]:
-            print("{}: {}".format(stats[i], stat_counts[i]), flush=True)
+        tokens = line.split()
+        if len(tokens) >= 2:
+            a = i
+            if tokens[-2] in status_tally:
+                status_tally[tokens[-2]] += 1
+                i += 1
+            try:
+                file_size += int(tokens[-1])
+                if a == i:
+                    i += 1
+            except:
+                if a == i:
+                    continue
+        if i % 10 == 0:
+            print("File size: {:d}".format(file_size))
+            for key, value in sorted(status_tally.items()):
+                if value:
+                    print("{:s}: {:d}".format(key, value))
+    print("File size: {:d}".format(file_size))
+    for key, value in sorted(status_tally.items()):
+        if value:
+            print("{:s}: {:d}".format(key, value))
 
-    raise
+except KeyboardInterrupt:
+    print("File size: {:d}".format(file_size))
+    for key, value in sorted(status_tally.items()):
+        if value:
+            print("{:s}: {:d}".format(key, value))
