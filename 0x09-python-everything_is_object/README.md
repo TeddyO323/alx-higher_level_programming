@@ -89,7 +89,7 @@ The biggest mandatory task is the blog post and it will count for 50% of the tot
 
   </div>
 
-[(answer)](./0-answer.txt)
+[(answer)](/../0x00-python-hello_world/2-print.py)
 
 
 # 1. Where are you?
