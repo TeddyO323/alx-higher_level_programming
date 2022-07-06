@@ -782,3 +782,8 @@ julien@ubuntu:~/0x07. Pyhton Strings$
 
 
 
+[Next Project](/../../../../omosh/alx_projects/alx-higher_level_programming/0x08-python-more_classes/)
+
+<a href="next.html" align="middle">
+   <img src="tlbr.png" align="middle">
+</a>
