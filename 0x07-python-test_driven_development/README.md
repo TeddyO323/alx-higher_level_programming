@@ -776,9 +776,7 @@ julien@ubuntu:~/0x07. Pyhton Strings$
 
 <em>THE END</em>
 
-<p align="right">
-
-[(Next Project)](/../../../../omosh/alx_projects/alx-higher_level_programming/0x08-python-more_classes/)</p>
+<p align="right">[Next Project](/../../../../omosh/alx_projects/alx-higher_level_programming/0x08-python-more_classes/)</p>
 
 </details>
 
