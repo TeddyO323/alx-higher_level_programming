@@ -173,22 +173,8 @@ guillaume@ubuntu:~/$
 ---
 
 ### 2. Delete a database
-    </h3>
-
-    <div>
-        <span class="label label-info">
-          mandatory
-        </span>
-    </div>
-  </div>
-
-  <div class="panel-body">
-    <span id="user_id" data-id="11739"></span>
-
-    <!-- Progress vs Score -->
-
-    <!-- Task Body -->
-    <p>Write a script that deletes the database <code>hbtn_0c_0</code> in your MySQL server.</p>
+    
+  <p>Write a script that deletes the database <code>hbtn_0c_0</code> in your MySQL server.</p>
 
 <ul>
 <li>If the database <code>hbtn_0c_0</code> doesn&rsquo;t exist, your script should not fail</li>
