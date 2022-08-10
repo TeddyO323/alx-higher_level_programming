@@ -129,5 +129,4 @@ $
   </div>
 </div>
 
-[
-<h2>Quiz questions</h2>](quiz.md)
+[<h2>Quiz questions</h2>](quiz.md)
