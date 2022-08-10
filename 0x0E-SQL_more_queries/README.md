@@ -712,7 +712,7 @@ guillaume@ubuntu:~/$
 
 ---
 
-### 1.  List shows and genres
+### 16.  List shows and genres
 
 <p>Import the database dump from <code>hbtn_0d_tvshows</code> to your MySQL server: <a href="./tvshows.sql" title="download" target="_blank">download</a> (same as <code>15-comedy_only.sql</code>)</p>
 
