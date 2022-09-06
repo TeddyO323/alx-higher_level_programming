@@ -497,7 +497,7 @@ guillaume@ubuntu:~/0x13$
 
 <ul>
 <li>Your script must import <code>list</code> from the file <code>100-data.js</code></li>
-<li>You must use a <code>map</code>. <a href="/rltoken/LOEW51ZbYDjO4KZCFevzNQ" title="Tips" target="_blank">Tips</a></li>
+<li>You must use a <code>map</code>. <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map?v=control" title="Tips" target="_blank">Tips</a></li>
 <li>A new list must be created with each value equal to the value of the initial list, multipled by the index in the list</li>
 <li>Print both the initial list and the new list</li>
 </ul>
