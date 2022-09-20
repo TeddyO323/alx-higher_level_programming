@@ -251,7 +251,7 @@ guillaume@ubuntu:~/0x0F$
 
 <p>What? Empty?</p>
 
-<p>Yes, it&rsquo;s an <a href="/rltoken/qzLjdkHPTue2U1isMj5fJA" title="SQL injection" target="_blank">SQL injection</a> to delete all records of a table&hellip;</p>
+<p>Yes, it&rsquo;s an <a href="https://en.wikipedia.org/wiki/SQL_injection" title="SQL injection" target="_blank">SQL injection</a> to delete all records of a table&hellip;</p>
 
 <p>Once again, write a script that takes in arguments and displays all values in the <code>states</code> table of <code>hbtn_0e_0_usa</code> where <code>name</code> matches the argument. But this time, write one that is safe from MySQL injections!</p>
 
